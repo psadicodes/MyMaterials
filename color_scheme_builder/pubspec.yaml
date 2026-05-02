@@ -1,0 +1,47 @@
+name: color_scheme_builder
+description: Material 3 Color Scheme Builder — generate, preview, and export Jetpack Compose themes.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Material Color Utilities — local from this repo
+  material_color_utilities:
+    path: ../dart
+
+  # State management
+  flutter_riverpod: ^2.5.1
+
+  # Color picker UI
+  flutter_colorpicker: ^1.1.0
+
+  # Image decoding for pixel extraction
+  image: ^4.2.0
+
+  # File picking (web + desktop)
+  file_picker: ^8.1.2
+
+  # HTTP for Google Fonts API
+  http: ^1.2.1
+
+  # Google Fonts preview in the app UI
+  google_fonts: ^6.2.1
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+dependency_overrides:
+  material_color_utilities:
+    path: ../dart
+
+flutter:
+  uses-material-design: true
