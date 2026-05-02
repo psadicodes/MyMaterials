@@ -1,0 +1,489 @@
+{
+  "nodes": [
+    {
+      "id": "material_you_2_screenshot",
+      "label": "Material You Screenshot 2",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_you_design_system",
+      "label": "Material You (Material Design 3)",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dark_mode_theme",
+      "label": "Dark Mode Theme",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_color_theming",
+      "label": "Dynamic Color Theming",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "teal_cyan_palette",
+      "label": "Teal/Cyan Color Palette",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "messaging_app_ui",
+      "label": "Messaging Application UI",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "email_thread_view",
+      "label": "Email Thread View",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bottom_navigation_bar",
+      "label": "Bottom Navigation Bar",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floating_action_button",
+      "label": "Floating Action Button (FAB)",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inbox_tab",
+      "label": "Inbox Tab",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "documents_tab",
+      "label": "Documents Tab",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "messages_tab",
+      "label": "Messages Tab",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "video_call_tab",
+      "label": "Video Call Tab",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reply_action_button",
+      "label": "Reply Action Button",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reply_all_action_button",
+      "label": "Reply All Action Button",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "android_mobile_ui",
+      "label": "Android Mobile UI",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gradient_background",
+      "label": "Teal/Cyan Gradient Background",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multilingual_content",
+      "label": "Multilingual Content (Chinese and English)",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "message_card_component",
+      "label": "Message Card Component",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dart_flutter_framework",
+      "label": "Dart/Flutter Framework",
+      "file_type": "image",
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "material_you_2_screenshot",
+      "target": "material_you_design_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_you_2_screenshot",
+      "target": "messaging_app_ui",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_you_2_screenshot",
+      "target": "dark_mode_theme",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_you_2_screenshot",
+      "target": "android_mobile_ui",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_you_design_system",
+      "target": "dynamic_color_theming",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamic_color_theming",
+      "target": "teal_cyan_palette",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "teal_cyan_palette",
+      "target": "gradient_background",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "teal_cyan_palette",
+      "target": "floating_action_button",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "messaging_app_ui",
+      "target": "email_thread_view",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "messaging_app_ui",
+      "target": "bottom_navigation_bar",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "messaging_app_ui",
+      "target": "floating_action_button",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bottom_navigation_bar",
+      "target": "inbox_tab",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bottom_navigation_bar",
+      "target": "documents_tab",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bottom_navigation_bar",
+      "target": "messages_tab",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bottom_navigation_bar",
+      "target": "video_call_tab",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "email_thread_view",
+      "target": "message_card_component",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "email_thread_view",
+      "target": "reply_action_button",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "email_thread_view",
+      "target": "reply_all_action_button",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "message_card_component",
+      "target": "multilingual_content",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_you_design_system",
+      "target": "dark_mode_theme",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "android_mobile_ui",
+      "target": "material_you_design_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "dart_flutter_framework",
+      "target": "material_you_design_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "dart_flutter_framework",
+      "target": "messaging_app_ui",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "material_you_design_system",
+      "target": "floating_action_button",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "material_you_design_system",
+      "target": "bottom_navigation_bar",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "dark_mode_theme",
+      "target": "gradient_background",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "dart/screenshots/material_you_2.png",
+      "source_location": null,
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

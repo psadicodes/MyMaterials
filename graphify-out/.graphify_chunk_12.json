@@ -1,0 +1,269 @@
+{
+  "nodes": [
+    {
+      "id": "content_based_color_extraction",
+      "label": "Content-Based Color Extraction",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "album_artwork",
+      "label": "Album Artwork (Source Image)",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_color_theme",
+      "label": "Dynamic Color Theme",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_color_utilities",
+      "label": "Material Color Utilities",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "music_player_ui",
+      "label": "Music Player UI (Now Playing Screen)",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixel_color_sampling",
+      "label": "Pixel Color Sampling",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dominant_color",
+      "label": "Dominant Color",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "teal_cyan_color_scheme",
+      "label": "Teal/Cyan UI Color Scheme",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_you",
+      "label": "Material You (Dynamic Color System)",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "color_palette_generation",
+      "label": "Color Palette Generation",
+      "file_type": "image",
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "album_artwork",
+      "target": "content_based_color_extraction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "content_based_color_extraction",
+      "target": "dynamic_color_theme",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "content_based_color_extraction",
+      "target": "music_player_ui",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "album_artwork",
+      "target": "pixel_color_sampling",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pixel_color_sampling",
+      "target": "dominant_color",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "dominant_color",
+      "target": "teal_cyan_color_scheme",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "teal_cyan_color_scheme",
+      "target": "music_player_ui",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_color_utilities",
+      "target": "content_based_color_extraction",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "material_color_utilities",
+      "target": "color_palette_generation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "color_palette_generation",
+      "target": "dynamic_color_theme",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "material_you",
+      "target": "content_based_color_extraction",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "material_you",
+      "target": "material_color_utilities",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "dynamic_color_theme",
+      "target": "material_you",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "pixel_color_sampling",
+      "target": "color_palette_generation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "album_artwork",
+      "target": "dominant_color",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "concepts/images/content_based_color.png",
+      "source_location": null,
+      "weight": 0.9
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

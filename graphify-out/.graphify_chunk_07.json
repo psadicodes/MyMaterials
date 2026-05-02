@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "id": "wallpaper_based_color_wallpaper_color_extraction",
+      "label": "Wallpaper-Based Color Extraction",
+      "file_type": "image",
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wallpaper_based_color_device_wallpaper",
+      "label": "Device Wallpaper",
+      "file_type": "image",
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wallpaper_based_color_theme_color",
+      "label": "Derived Theme Color",
+      "file_type": "image",
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wallpaper_based_color_google_pixel",
+      "label": "Google Pixel Device",
+      "file_type": "image",
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wallpaper_based_color_material_you",
+      "label": "Material You Dynamic Theming",
+      "file_type": "image",
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wallpaper_based_color_color_palette",
+      "label": "Color Palette",
+      "file_type": "image",
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "wallpaper_based_color_device_wallpaper",
+      "target": "wallpaper_based_color_theme_color",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wallpaper_based_color_wallpaper_color_extraction",
+      "target": "wallpaper_based_color_device_wallpaper",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wallpaper_based_color_wallpaper_color_extraction",
+      "target": "wallpaper_based_color_theme_color",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wallpaper_based_color_google_pixel",
+      "target": "wallpaper_based_color_device_wallpaper",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wallpaper_based_color_wallpaper_color_extraction",
+      "target": "wallpaper_based_color_material_you",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "wallpaper_based_color_google_pixel",
+      "target": "wallpaper_based_color_material_you",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "wallpaper_based_color_theme_color",
+      "target": "wallpaper_based_color_color_palette",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "wallpaper_based_color_material_you",
+      "target": "wallpaper_based_color_color_palette",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "concepts/images/wallpaper_based_color.png",
+      "source_location": null,
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
