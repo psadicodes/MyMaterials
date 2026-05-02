@@ -1,0 +1,1502 @@
+{
+  "/home/user/MyMaterials/kotlin/contrast/Contrast.kt": {
+    "mtime": 1777687660.3199246,
+    "hash": "4c066f4d667b84363357817ae56e6584"
+  },
+  "/home/user/MyMaterials/kotlin/hct/Hct.kt": {
+    "mtime": 1777687660.3284092,
+    "hash": "e946cc209589ad512b457eb49e227ff4"
+  },
+  "/home/user/MyMaterials/kotlin/hct/ViewingConditions.kt": {
+    "mtime": 1777687660.3284092,
+    "hash": "93869cb404533c0e3221dc699a425755"
+  },
+  "/home/user/MyMaterials/kotlin/hct/Cam16.kt": {
+    "mtime": 1777687660.3252118,
+    "hash": "2267350ed1cc87005f8fd207e7e7ec3d"
+  },
+  "/home/user/MyMaterials/kotlin/hct/HctSolver.kt": {
+    "mtime": 1777687660.3284092,
+    "hash": "e83daa3f3ee9100761281276171a4123"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/Variant.kt": {
+    "mtime": 1777687660.3252118,
+    "hash": "868e1d9564ae9e5db1e35fe40b7eb5c2"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/DynamicColor.kt": {
+    "mtime": 1777687660.3252118,
+    "hash": "b2389c1c0ce1d77c65d3af2f3989cda5"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/DynamicScheme.kt": {
+    "mtime": 1777687660.3252118,
+    "hash": "6f143ffbb49a8069aa5a4253b115e512"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/ColorSpec2025.kt": {
+    "mtime": 1777687660.3212118,
+    "hash": "a8db07a24a4304ba6f714e770c24ee96"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/ContrastCurve.kt": {
+    "mtime": 1777687660.3212118,
+    "hash": "45ffff04df3f89a9fa6d29ed1a092524"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/ColorSpec.kt": {
+    "mtime": 1777687660.3212118,
+    "hash": "24aeca18396976cd7ea2e38fdde10e6b"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/ColorSpecs.kt": {
+    "mtime": 1777687660.3212118,
+    "hash": "71f79422b1b65530102fa91b91b1b8fa"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/ToneDeltaPair.kt": {
+    "mtime": 1777687660.3252118,
+    "hash": "9c4e13c5ccd5c21d4a3210ae85ff309a"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/MaterialDynamicColors.kt": {
+    "mtime": 1777687660.3252118,
+    "hash": "b491111703ba02c2869ce6a070bb07d3"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/ColorSpec2021.kt": {
+    "mtime": 1777687660.3212118,
+    "hash": "b95071cc74c0a0ed13cc7d8cb94233c3"
+  },
+  "/home/user/MyMaterials/kotlin/dynamiccolor/ColorSpec2026.kt": {
+    "mtime": 1777687660.3212118,
+    "hash": "7595b867059a3ba0ff7160e9c08e8708"
+  },
+  "/home/user/MyMaterials/kotlin/quantize/QuantizerWsmeans.kt": {
+    "mtime": 1777687660.3299718,
+    "hash": "36811567f1b651bc7122cb6dc69928d6"
+  },
+  "/home/user/MyMaterials/kotlin/quantize/QuantizerResult.kt": {
+    "mtime": 1777687660.3299718,
+    "hash": "1286e83c4420e17b218013d05c6b24d8"
+  },
+  "/home/user/MyMaterials/kotlin/quantize/QuantizerWu.kt": {
+    "mtime": 1777687660.3299718,
+    "hash": "52802c7d3f39cd54bbe4516f9cdf41be"
+  },
+  "/home/user/MyMaterials/kotlin/quantize/PointProvider.kt": {
+    "mtime": 1777687660.329456,
+    "hash": "9f4b28d2cb1f1e77e8f8214adcf4ee26"
+  },
+  "/home/user/MyMaterials/kotlin/quantize/Quantizer.kt": {
+    "mtime": 1777687660.3299718,
+    "hash": "fb362ddfacb983aa8e72c1950831d087"
+  },
+  "/home/user/MyMaterials/kotlin/quantize/QuantizerMap.kt": {
+    "mtime": 1777687660.3299718,
+    "hash": "977cbcd83180085e1adce92334a83367"
+  },
+  "/home/user/MyMaterials/kotlin/quantize/QuantizerCelebi.kt": {
+    "mtime": 1777687660.3299718,
+    "hash": "79340b17e077be404702331ba5de4191"
+  },
+  "/home/user/MyMaterials/kotlin/quantize/PointProviderLab.kt": {
+    "mtime": 1777687660.3299718,
+    "hash": "7e8d69ee29459326dab92d913b5b951d"
+  },
+  "/home/user/MyMaterials/kotlin/dislike/DislikeAnalyzer.kt": {
+    "mtime": 1777687660.3199246,
+    "hash": "3f2fcecf289a160a4b2f0113b7efdae6"
+  },
+  "/home/user/MyMaterials/kotlin/palettes/CorePalettes.kt": {
+    "mtime": 1777687660.3284092,
+    "hash": "9b6dd3707231305157100522db94e28e"
+  },
+  "/home/user/MyMaterials/kotlin/palettes/TonalPalette.kt": {
+    "mtime": 1777687660.329456,
+    "hash": "18729ae5dd58d96e37038746f9e90495"
+  },
+  "/home/user/MyMaterials/kotlin/blend/Blend.kt": {
+    "mtime": 1777687660.3199246,
+    "hash": "17d1608de9fe08cc40961e02e0e9860d"
+  },
+  "/home/user/MyMaterials/kotlin/temperature/TemperatureCache.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "effe590241ee53038877bbccbf6f8f5b"
+  },
+  "/home/user/MyMaterials/kotlin/score/Score.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "f96643e4dd9be0be4913a9cf496dda92"
+  },
+  "/home/user/MyMaterials/kotlin/utils/MathUtils.kt": {
+    "mtime": 1777687660.333212,
+    "hash": "e2becd7ea77fe5b661910105762f6d25"
+  },
+  "/home/user/MyMaterials/kotlin/utils/ColorUtils.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "7f956a5faf5a37e90f58e128139b0f73"
+  },
+  "/home/user/MyMaterials/kotlin/utils/StringUtils.kt": {
+    "mtime": 1777687660.333212,
+    "hash": "64df0c009eec766b12a63b16b456f03c"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeVibrant.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "076e6b6d4e9a2e51ff8b10d753929b73"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeExpressive.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "17d4e2a5f66dd1128dc13879aa32131f"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeCmf.kt": {
+    "mtime": 1777687660.3299718,
+    "hash": "8866cc5e6b5a37137b12d94934de6a21"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeTonalSpot.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "8f08791c9e29277342cfed9f89c220f9"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeMonochrome.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "c7b70a593c323dc336d277ae8a11dd0e"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeRainbow.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "6ebe499c4cad049d29c8591de5730b45"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeFruitSalad.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "48d60a206487df64e3235133dc162702"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeContent.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "9e70f6a74f693ce97442cbf7da699253"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeNeutral.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "7a324d9bb6733b90cca5eb3c9fabdf27"
+  },
+  "/home/user/MyMaterials/kotlin/scheme/SchemeFidelity.kt": {
+    "mtime": 1777687660.3322127,
+    "hash": "f7fbf532b5f22080dc20be1452fb9f3a"
+  },
+  "/home/user/MyMaterials/java/contrast/Contrast.java": {
+    "mtime": 1777687660.3032846,
+    "hash": "58653be98537bbf2d2bdf75caee9fe79"
+  },
+  "/home/user/MyMaterials/java/hct/ViewingConditions.java": {
+    "mtime": 1777687660.3098772,
+    "hash": "252c9e4994618f2e486421fbe1066a92"
+  },
+  "/home/user/MyMaterials/java/hct/Hct.java": {
+    "mtime": 1777687660.3098772,
+    "hash": "deb38ca77d54a1334835cb5ef455c9ad"
+  },
+  "/home/user/MyMaterials/java/hct/HctSolver.java": {
+    "mtime": 1777687660.3098772,
+    "hash": "edb80b81f89ac44a6537cea3b9324ac1"
+  },
+  "/home/user/MyMaterials/java/hct/Cam16.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "bd85b4620e071ee9c5ac9a9b82d96e33"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/ColorSpecs.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "7e337a959c2e98b12b466b9c0dfc37d0"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/ColorSpec.java": {
+    "mtime": 1777687660.3032846,
+    "hash": "f280ec552ef91c381ab6858df80cc6c5"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/MaterialDynamicColors.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "cde2e7d441d82e068f38d4d16929477a"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/ColorSpec2021.java": {
+    "mtime": 1777687660.3051345,
+    "hash": "9027a5de5b45316d8c07a58cf69fdf16"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/TonePolarity.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "741f46aaf8fa4fa200699c9a0088b31e"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/Variant.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "121935bc2d5cedf1098f6616fc6472c1"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/ToneDeltaPair.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "dbd108e237c4d17d5dfec4b5457e7e36"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/ColorSpec2025.java": {
+    "mtime": 1777687660.3051345,
+    "hash": "4e073934f72edaf162a84c058f4b3b44"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/DynamicColor.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "1d49456bd603f15d298ea59316fbf36e"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/ColorSpec2026.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "c840e7132ce14c6a6d66426472d5abfb"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/DynamicScheme.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "c057911efe4509411582b06f4633c588"
+  },
+  "/home/user/MyMaterials/java/dynamiccolor/ContrastCurve.java": {
+    "mtime": 1777687660.3052118,
+    "hash": "324834421fc2d37bf4be08296b77006c"
+  },
+  "/home/user/MyMaterials/java/quantize/QuantizerWu.java": {
+    "mtime": 1777687660.3124113,
+    "hash": "5feef6021ed0f586062d78d6b7f3f4a5"
+  },
+  "/home/user/MyMaterials/java/quantize/QuantizerResult.java": {
+    "mtime": 1777687660.3124113,
+    "hash": "d4dc8136fb6b57ff198036ae1c08b28c"
+  },
+  "/home/user/MyMaterials/java/quantize/QuantizerCelebi.java": {
+    "mtime": 1777687660.3124113,
+    "hash": "39ebb6f7b3bca36629ff37904b49a79b"
+  },
+  "/home/user/MyMaterials/java/quantize/PointProviderLab.java": {
+    "mtime": 1777687660.3124113,
+    "hash": "a1375e83e61c13d0957d40de9660eca1"
+  },
+  "/home/user/MyMaterials/java/quantize/PointProvider.java": {
+    "mtime": 1777687660.3115668,
+    "hash": "25d147438a37801d8fc9e9a6c3b14e11"
+  },
+  "/home/user/MyMaterials/java/quantize/QuantizerWsmeans.java": {
+    "mtime": 1777687660.3124113,
+    "hash": "7d8aace0db17860c4212598b70804547"
+  },
+  "/home/user/MyMaterials/java/quantize/Quantizer.java": {
+    "mtime": 1777687660.3124113,
+    "hash": "5805268dad87e3c511d9a8e35a376f31"
+  },
+  "/home/user/MyMaterials/java/quantize/QuantizerMap.java": {
+    "mtime": 1777687660.3124113,
+    "hash": "bbad919d3d3de664405c7061f8ac55c6"
+  },
+  "/home/user/MyMaterials/java/dislike/DislikeAnalyzer.java": {
+    "mtime": 1777687660.3032846,
+    "hash": "50442f7d725a5833ea6be094dc22d413"
+  },
+  "/home/user/MyMaterials/java/palettes/TonalPalette.java": {
+    "mtime": 1777687660.3115668,
+    "hash": "9ec7e1a6f4d52eb3fb8b1304f5f76a39"
+  },
+  "/home/user/MyMaterials/java/palettes/CorePalettes.java": {
+    "mtime": 1777687660.3115668,
+    "hash": "aeac7ecc30b547433fce37cafe7b79e3"
+  },
+  "/home/user/MyMaterials/java/palettes/CorePalette.java": {
+    "mtime": 1777687660.3098772,
+    "hash": "50f85b531409497430ebbdab44c2bcb2"
+  },
+  "/home/user/MyMaterials/java/blend/Blend.java": {
+    "mtime": 1777687660.3032846,
+    "hash": "19e7eff79be632be9dcd931145b6bb63"
+  },
+  "/home/user/MyMaterials/java/temperature/TemperatureCache.java": {
+    "mtime": 1777687660.31536,
+    "hash": "fafaac8a19a048cde5fdfa7ecaeffd10"
+  },
+  "/home/user/MyMaterials/java/score/Score.java": {
+    "mtime": 1777687660.31536,
+    "hash": "521103900598e5d795aba757bb0de929"
+  },
+  "/home/user/MyMaterials/java/utils/ColorUtils.java": {
+    "mtime": 1777687660.3172119,
+    "hash": "6a2f169d344939a42a0edd690146677c"
+  },
+  "/home/user/MyMaterials/java/utils/StringUtils.java": {
+    "mtime": 1777687660.318829,
+    "hash": "759601986e3d626b3e460a6838af1535"
+  },
+  "/home/user/MyMaterials/java/utils/MathUtils.java": {
+    "mtime": 1777687660.318829,
+    "hash": "217e8f86fe9c34b899b0af0cd598c9a1"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeVibrant.java": {
+    "mtime": 1777687660.31536,
+    "hash": "c4dd1d38ee6fafd7633c728a84021f16"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeNeutral.java": {
+    "mtime": 1777687660.31536,
+    "hash": "cd6fb2ea2ad9edc21077c81c5b207a36"
+  },
+  "/home/user/MyMaterials/java/scheme/Scheme.java": {
+    "mtime": 1777687660.313212,
+    "hash": "d04b226d28ade2680978cdf2543a131f"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeTonalSpot.java": {
+    "mtime": 1777687660.31536,
+    "hash": "fd048c65d5bec539ed4ecfb58deb80b5"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeContent.java": {
+    "mtime": 1777687660.31536,
+    "hash": "4d3688153fc0a2f041549b3865e2a6d5"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeExpressive.java": {
+    "mtime": 1777687660.31536,
+    "hash": "20ebcb389ec4d29c26695778a869ddf0"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeFruitSalad.java": {
+    "mtime": 1777687660.31536,
+    "hash": "dd711e4d2e7d2662f5781b861e7b1059"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeMonochrome.java": {
+    "mtime": 1777687660.31536,
+    "hash": "0222a933478b9284073ad9fec5e93737"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeCmf.java": {
+    "mtime": 1777687660.31536,
+    "hash": "9d154af5a5dffb989d0f0cc0615b943d"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeRainbow.java": {
+    "mtime": 1777687660.31536,
+    "hash": "e74d6a740cc8987965e68dd63e5ae700"
+  },
+  "/home/user/MyMaterials/java/scheme/SchemeFidelity.java": {
+    "mtime": 1777687660.31536,
+    "hash": "b0870317baf5afb31c88cf43cacfeb3c"
+  },
+  "/home/user/MyMaterials/dart/test/palettes_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "a55b06e8137c1241a1685a75e9d3b57d"
+  },
+  "/home/user/MyMaterials/dart/test/dynamic_scheme_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "ae27765593a1fd74ec97c615faaedc86"
+  },
+  "/home/user/MyMaterials/dart/test/quantizer_wsmeans_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "965a68d57d2fb4ea7eebe6b61c148ffd"
+  },
+  "/home/user/MyMaterials/dart/test/blend_test.dart": {
+    "mtime": 1777687660.293212,
+    "hash": "dad537cdb718bf86e5554c839c501044"
+  },
+  "/home/user/MyMaterials/dart/test/dislike_analyzer_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "e99cd85d836b1a00f877987ffd3637e4"
+  },
+  "/home/user/MyMaterials/dart/test/hct_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "828a41e5a6f0deca074cf394b3787513"
+  },
+  "/home/user/MyMaterials/dart/test/temperature_cache_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "f49888d16ee2ca094e3cca05411f1ee8"
+  },
+  "/home/user/MyMaterials/dart/test/dynamic_color_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "e64b15104f039fbd8de7bc8770ba9bce"
+  },
+  "/home/user/MyMaterials/dart/test/scheme_correctness_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "bfdc7b75209b632a5f7e04d4654ca494"
+  },
+  "/home/user/MyMaterials/dart/test/color_utils_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "432089a34ce8fc1756511288a8017818"
+  },
+  "/home/user/MyMaterials/dart/test/quantizer_celebi_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "8c09214e9f11dc61f649ff2cdb13f697"
+  },
+  "/home/user/MyMaterials/dart/test/contrast_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "121701baba905340f538d17fb7df1500"
+  },
+  "/home/user/MyMaterials/dart/test/score_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "8cdd8325c6baec2135dd2299fb017010"
+  },
+  "/home/user/MyMaterials/dart/test/math_utils_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "f2fdf962d780da0d01912d4760a9b381"
+  },
+  "/home/user/MyMaterials/dart/test/quantizer_wu_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "3bbb1d65f47defe65c35c9be78b4df69"
+  },
+  "/home/user/MyMaterials/dart/test/hct_round_trip_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "288910762bc8b92ffebc2172efc591d0"
+  },
+  "/home/user/MyMaterials/dart/test/scheme_monochrome_test.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "633f452a4af7189a0ea808a4e3e50b65"
+  },
+  "/home/user/MyMaterials/dart/test/utils/color_matcher.dart": {
+    "mtime": 1777687660.297212,
+    "hash": "b53d1914b57e4e18553828f7f538fd11"
+  },
+  "/home/user/MyMaterials/dart/test/utils/scheme_from_variant.dart": {
+    "mtime": 1777687660.30177,
+    "hash": "56a8bcf4f58fae7d997eae76a65bed3a"
+  },
+  "/home/user/MyMaterials/dart/example/main.dart": {
+    "mtime": 1777687660.2629762,
+    "hash": "13dde2832462798b539c39a4328007d6"
+  },
+  "/home/user/MyMaterials/dart/lib/material_color_utilities.dart": {
+    "mtime": 1777687660.268644,
+    "hash": "fbd82bcbc9e665b8d098f0716297aa14"
+  },
+  "/home/user/MyMaterials/dart/lib/contrast/contrast.dart": {
+    "mtime": 1777687660.264239,
+    "hash": "31f8129bfae39c459df7bd2d3cc37bae"
+  },
+  "/home/user/MyMaterials/dart/lib/hct/viewing_conditions.dart": {
+    "mtime": 1777687660.268644,
+    "hash": "31e9eaae0175cc8b4184df6c89b454ca"
+  },
+  "/home/user/MyMaterials/dart/lib/hct/cam16.dart": {
+    "mtime": 1777687660.2675216,
+    "hash": "087a61e95c464eb4010ee9584d505996"
+  },
+  "/home/user/MyMaterials/dart/lib/hct/hct.dart": {
+    "mtime": 1777687660.268644,
+    "hash": "d75fe23c75429021b8f7fe4e57ac5d49"
+  },
+  "/home/user/MyMaterials/dart/lib/hct/src/hct_solver.dart": {
+    "mtime": 1777687660.268644,
+    "hash": "2972206c70139c2948530bbb5c9cfa27"
+  },
+  "/home/user/MyMaterials/dart/lib/dynamiccolor/dynamic_scheme.dart": {
+    "mtime": 1777687660.2662277,
+    "hash": "b7c07fdfc8aaa762f93fbaa316f728b7"
+  },
+  "/home/user/MyMaterials/dart/lib/dynamiccolor/dynamic_color.dart": {
+    "mtime": 1777687660.264239,
+    "hash": "e0469000d5e6f512d2fccfd97145c727"
+  },
+  "/home/user/MyMaterials/dart/lib/dynamiccolor/variant.dart": {
+    "mtime": 1777687660.2675216,
+    "hash": "8dea906a9b8773920b6d1ccea59807bf"
+  },
+  "/home/user/MyMaterials/dart/lib/dynamiccolor/material_dynamic_colors.dart": {
+    "mtime": 1777687660.2662277,
+    "hash": "9cc3bc193f4ba15acf07b6b1d46d879e"
+  },
+  "/home/user/MyMaterials/dart/lib/dynamiccolor/src/contrast_curve.dart": {
+    "mtime": 1777687660.2662277,
+    "hash": "82e64569c28ce30a19726e5c108b98bd"
+  },
+  "/home/user/MyMaterials/dart/lib/dynamiccolor/src/tone_delta_pair.dart": {
+    "mtime": 1777687660.2675216,
+    "hash": "033b9ff4ea4c8fa3e9da4573a7d2edfb"
+  },
+  "/home/user/MyMaterials/dart/lib/quantize/quantizer.dart": {
+    "mtime": 1777687660.2707572,
+    "hash": "c169a4018f821bdf0d46de2653fd1cf7"
+  },
+  "/home/user/MyMaterials/dart/lib/quantize/quantizer_map.dart": {
+    "mtime": 1777687660.2715213,
+    "hash": "42e37fab03a3ee2d526bb6f51ea4af23"
+  },
+  "/home/user/MyMaterials/dart/lib/quantize/quantizer_wu.dart": {
+    "mtime": 1777687660.2715213,
+    "hash": "ce049601b2dcdf418b7d80839ed87b7f"
+  },
+  "/home/user/MyMaterials/dart/lib/quantize/quantizer_wsmeans.dart": {
+    "mtime": 1777687660.2715213,
+    "hash": "907dee395c762afbdcd8a23c105e9cff"
+  },
+  "/home/user/MyMaterials/dart/lib/quantize/quantizer_celebi.dart": {
+    "mtime": 1777687660.2715213,
+    "hash": "88b38af8a6ab0efd56d1fb06883c44db"
+  },
+  "/home/user/MyMaterials/dart/lib/quantize/src/point_provider_lab.dart": {
+    "mtime": 1777687660.272863,
+    "hash": "28b2af7f1216ccd38b109a03e06c2831"
+  },
+  "/home/user/MyMaterials/dart/lib/quantize/src/point_provider.dart": {
+    "mtime": 1777687660.2715213,
+    "hash": "7504c44d1fa6150901dd65ec78877be0"
+  },
+  "/home/user/MyMaterials/dart/lib/dislike/dislike_analyzer.dart": {
+    "mtime": 1777687660.264239,
+    "hash": "052660a52f5ab94091182bccabab6f84"
+  },
+  "/home/user/MyMaterials/dart/lib/palettes/core_palettes.dart": {
+    "mtime": 1777687660.2707572,
+    "hash": "071d3273e2c1ad49925918df17654e17"
+  },
+  "/home/user/MyMaterials/dart/lib/palettes/core_palette.dart": {
+    "mtime": 1777687660.2692118,
+    "hash": "5a11d4662fc61ed2bd835a4e6bb0f47f"
+  },
+  "/home/user/MyMaterials/dart/lib/palettes/tonal_palette.dart": {
+    "mtime": 1777687660.2707572,
+    "hash": "cfeea6435b5871fb518238f65eff45c6"
+  },
+  "/home/user/MyMaterials/dart/lib/blend/blend.dart": {
+    "mtime": 1777687660.264239,
+    "hash": "7594a28b48f672ffb4829ada9ea4018e"
+  },
+  "/home/user/MyMaterials/dart/lib/temperature/temperature_cache.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "2e46417042b18a7fd19a9d6c90fce1b6"
+  },
+  "/home/user/MyMaterials/dart/lib/score/score.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "4f05e8a4424e66fedd1798178f3fbfe4"
+  },
+  "/home/user/MyMaterials/dart/lib/utils/math_utils.dart": {
+    "mtime": 1777687660.276432,
+    "hash": "e4ee21048ab83cc50d61ac3784afa9f5"
+  },
+  "/home/user/MyMaterials/dart/lib/utils/color_utils.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "a97282161191c89d98231dfd655252c6"
+  },
+  "/home/user/MyMaterials/dart/lib/utils/string_utils.dart": {
+    "mtime": 1777687660.276432,
+    "hash": "603b7b0647b2f77517d6e5cf1d073e5a"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme_content.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "29d2a4744cad0979d4cfdcdc2c1a6ed4"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme_tonal_spot.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "da57aefc2c06656b68f2bb2639e78d33"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme_fidelity.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "2b93d5d6981f0c021cb892223416927d"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme_monochrome.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "5f22b5b8aa08733c616d6f636a05f5f5"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme_neutral.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "bc6418e88ab34ee846e3d4e32408b23f"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme.dart": {
+    "mtime": 1777687660.272863,
+    "hash": "81cd0b075cd4d742a83ed1a6f4f801f7"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme_fruit_salad.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "0663e41383137de0068cc7a8bd70f814"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme_vibrant.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "65e61fbb4fa10372b84edf9b3a226e3e"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme_expressive.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "13b2049dce60861c73d20ad96c34da30"
+  },
+  "/home/user/MyMaterials/dart/lib/scheme/scheme_rainbow.dart": {
+    "mtime": 1777687660.2735047,
+    "hash": "5508fa5cc441db47e02b52d8968757dc"
+  },
+  "/home/user/MyMaterials/typescript/index.ts": {
+    "mtime": 1777687660.3678067,
+    "hash": "4dde7edadc44468e086ffce96d08a3b7"
+  },
+  "/home/user/MyMaterials/typescript/contrast/contrast_test.ts": {
+    "mtime": 1777687660.3620653,
+    "hash": "799644872e4d1327111f91af08f170cd"
+  },
+  "/home/user/MyMaterials/typescript/contrast/contrast.ts": {
+    "mtime": 1777687660.361182,
+    "hash": "094e9495e4fb0b940fa8be7cb6e1687f"
+  },
+  "/home/user/MyMaterials/typescript/hct/hct_solver.ts": {
+    "mtime": 1777687660.3678067,
+    "hash": "e368c5381e44ec4cac09f23d24a101a3"
+  },
+  "/home/user/MyMaterials/typescript/hct/viewing_conditions.ts": {
+    "mtime": 1777687660.3678067,
+    "hash": "1eaa982a407ae9544af72282bb1262f3"
+  },
+  "/home/user/MyMaterials/typescript/hct/cam16.ts": {
+    "mtime": 1777687660.3652117,
+    "hash": "4cceaff113515900c7bbce83ef095b18"
+  },
+  "/home/user/MyMaterials/typescript/hct/hct.ts": {
+    "mtime": 1777687660.3678067,
+    "hash": "8a8a8a8d2164043e1d2d57ab43635e94"
+  },
+  "/home/user/MyMaterials/typescript/hct/hct_test.ts": {
+    "mtime": 1777687660.3678067,
+    "hash": "6b8a4a3334bef1a3cac9ce04ee5c284e"
+  },
+  "/home/user/MyMaterials/typescript/hct/hct_round_trip_test.ts": {
+    "mtime": 1777687660.3678067,
+    "hash": "37936e7c10da83ee81312d96aab3ae7b"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/color_spec_2021.ts": {
+    "mtime": 1777687660.3634217,
+    "hash": "c48ece0ff5f521f593b7863cc6639f9a"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/color_spec.ts": {
+    "mtime": 1777687660.362605,
+    "hash": "076d154940d6b6e4fe022c570e80974a"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/dynamic_scheme.ts": {
+    "mtime": 1777687660.3634217,
+    "hash": "fa1e70ddd143bc1c5a6fec7051bdb89c"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/color_spec_2026.ts": {
+    "mtime": 1777687660.3634217,
+    "hash": "5d01525279170cbca359f9e29d5cf1d1"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/variant.ts": {
+    "mtime": 1777687660.3652117,
+    "hash": "e4323b41be9dcf33922932ac58c03c1d"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/dynamic_color.ts": {
+    "mtime": 1777687660.3634217,
+    "hash": "3b747db70d05b2ce1e0445c6ad94a190"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/dynamic_color_test.ts": {
+    "mtime": 1777687660.3634217,
+    "hash": "f3aa67e4118a14df0d0cbd47903e3795"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/contrast_curve.ts": {
+    "mtime": 1777687660.3634217,
+    "hash": "31c0cfbb8e48ae9e3f4bacbd650eddc4"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/material_dynamic_colors.ts": {
+    "mtime": 1777687660.3652117,
+    "hash": "9a4c1164bddd4aac3de54f305f2bf202"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/fixed_dynamic_color_test.ts": {
+    "mtime": 1777687660.3652117,
+    "hash": "6e9923ef15181f853f6343f0354e27fd"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/tone_delta_pair.ts": {
+    "mtime": 1777687660.3652117,
+    "hash": "589c367515b3903a3b64931aa9cdaef7"
+  },
+  "/home/user/MyMaterials/typescript/dynamiccolor/color_spec_2025.ts": {
+    "mtime": 1777687660.3634217,
+    "hash": "2cdf26bc53ed318253619b6b7e903fea"
+  },
+  "/home/user/MyMaterials/typescript/quantize/quantizer_wu.ts": {
+    "mtime": 1777687660.37097,
+    "hash": "5654aad5a5cc1df8136fb06e99f31ff2"
+  },
+  "/home/user/MyMaterials/typescript/quantize/quantizer_map.ts": {
+    "mtime": 1777687660.37097,
+    "hash": "8d7a2499c36cafa1cb14c97b98152ef5"
+  },
+  "/home/user/MyMaterials/typescript/quantize/quantizer_celebi.ts": {
+    "mtime": 1777687660.37097,
+    "hash": "b6caf5882c3b55943e0acedc4439357b"
+  },
+  "/home/user/MyMaterials/typescript/quantize/quantizer_celebi_test.ts": {
+    "mtime": 1777687660.37097,
+    "hash": "2493096c9c0f2bb65cbf10983cbbe969"
+  },
+  "/home/user/MyMaterials/typescript/quantize/quantizer_wsmeans.ts": {
+    "mtime": 1777687660.37097,
+    "hash": "618c5ceacbd540577969c96022598cce"
+  },
+  "/home/user/MyMaterials/typescript/quantize/lab_point_provider.ts": {
+    "mtime": 1777687660.3699725,
+    "hash": "ae2bcc60f7a0e253853e109aa201cf94"
+  },
+  "/home/user/MyMaterials/typescript/quantize/point_provider.ts": {
+    "mtime": 1777687660.37097,
+    "hash": "ee259616948f10426aed21c1007b6677"
+  },
+  "/home/user/MyMaterials/typescript/dislike/dislike_analyzer.ts": {
+    "mtime": 1777687660.3620653,
+    "hash": "73a6a1c32a68ae48053a0b1b044f2ee1"
+  },
+  "/home/user/MyMaterials/typescript/dislike/dislike_analyzer_test.ts": {
+    "mtime": 1777687660.362605,
+    "hash": "6abb33e3744c275e6633f98c8c6e7ffd"
+  },
+  "/home/user/MyMaterials/typescript/palettes/core_palette.ts": {
+    "mtime": 1777687660.3678067,
+    "hash": "1190736d8e46a9be0a3ecd6046103245"
+  },
+  "/home/user/MyMaterials/typescript/palettes/tonal_palette.ts": {
+    "mtime": 1777687660.3699725,
+    "hash": "32ace0d888c1228cab1719c0339e1fd1"
+  },
+  "/home/user/MyMaterials/typescript/palettes/palettes_test.ts": {
+    "mtime": 1777687660.3699725,
+    "hash": "38e70ff09f8a952704627af24717250d"
+  },
+  "/home/user/MyMaterials/typescript/palettes/core_palettes.ts": {
+    "mtime": 1777687660.3699725,
+    "hash": "9c2181dd33a754466b97e30a572a8db9"
+  },
+  "/home/user/MyMaterials/typescript/blend/blend.ts": {
+    "mtime": 1777687660.3605187,
+    "hash": "d255453b98ff9bee3b35e739729a91f0"
+  },
+  "/home/user/MyMaterials/typescript/blend/blend_test.ts": {
+    "mtime": 1777687660.361182,
+    "hash": "3db7650fb4c707f8475f53bb45a6d376"
+  },
+  "/home/user/MyMaterials/typescript/temperature/temperature_cache.ts": {
+    "mtime": 1777687660.375672,
+    "hash": "6111d8e511cddff4a5c412314d936bfa"
+  },
+  "/home/user/MyMaterials/typescript/temperature/temperature_cache_test.ts": {
+    "mtime": 1777687660.3766034,
+    "hash": "9ffd150cc9ad944b14cbd20ed7fbc377"
+  },
+  "/home/user/MyMaterials/typescript/score/score_test.ts": {
+    "mtime": 1777687660.375672,
+    "hash": "833d6d2543b8f05cd8c3ed6c94335434"
+  },
+  "/home/user/MyMaterials/typescript/score/score.ts": {
+    "mtime": 1777687660.3732119,
+    "hash": "a4fbc3693f394b5fe3d2e6c4ad2c2c79"
+  },
+  "/home/user/MyMaterials/typescript/utils/string_utils.ts": {
+    "mtime": 1777687660.3779252,
+    "hash": "d19f75d70fbfff98482912326fb87d59"
+  },
+  "/home/user/MyMaterials/typescript/utils/math_utils.ts": {
+    "mtime": 1777687660.3779252,
+    "hash": "cb8b8c04b886a3894f68b28779f847d1"
+  },
+  "/home/user/MyMaterials/typescript/utils/image_utils.ts": {
+    "mtime": 1777687660.3779252,
+    "hash": "4ee196a1b28319a097cfe31ed2995d50"
+  },
+  "/home/user/MyMaterials/typescript/utils/test_utils.ts": {
+    "mtime": 1777687660.3779252,
+    "hash": "6f595c0b0c7c27386c8a358d6dfb7a8a"
+  },
+  "/home/user/MyMaterials/typescript/utils/theme_utils.ts": {
+    "mtime": 1777687660.3779252,
+    "hash": "93f905d166acfd31b1fc5edfeae072f1"
+  },
+  "/home/user/MyMaterials/typescript/utils/color_utils.ts": {
+    "mtime": 1777687660.3766034,
+    "hash": "8d9b68dfc2e8407409c35693c1b34f5d"
+  },
+  "/home/user/MyMaterials/typescript/utils/utils_test.ts": {
+    "mtime": 1777687660.3779252,
+    "hash": "5929acb84e3aff13b621e0919fb66bbd"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_cmf.ts": {
+    "mtime": 1777687660.3728955,
+    "hash": "7d8b5c4ce35b0fa2a59985cf480f7f86"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_vibrant.ts": {
+    "mtime": 1777687660.3732119,
+    "hash": "099b0d2c87f396a9305b3299b1c05a6f"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_fruit_salad.ts": {
+    "mtime": 1777687660.3728955,
+    "hash": "496eddf816034b8cab494caac3dbc99f"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme.ts": {
+    "mtime": 1777687660.3728955,
+    "hash": "40d0133dbe7931a30b03b7075dec2625"
+  },
+  "/home/user/MyMaterials/typescript/scheme/dynamic_scheme_test.ts": {
+    "mtime": 1777687660.37097,
+    "hash": "55276f080f9eee332041334c0ee545c7"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_content.ts": {
+    "mtime": 1777687660.3728955,
+    "hash": "fd3b9238c988696c50dae04efee2e3b5"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_neutral.ts": {
+    "mtime": 1777687660.3732119,
+    "hash": "d9c78132d75931d9046ec97e56f92c04"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_tonal_spot.ts": {
+    "mtime": 1777687660.3732119,
+    "hash": "1cfd004e41d270b8e628a7dce9351fca"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_test.ts": {
+    "mtime": 1777687660.3732119,
+    "hash": "82a178991b8855425025b198ba85bdd8"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_expressive.ts": {
+    "mtime": 1777687660.3728955,
+    "hash": "7509231f35d5c80d74498b37b75f1b4f"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_fidelity.ts": {
+    "mtime": 1777687660.3728955,
+    "hash": "37b8b84da9d754f39e52fd122a41b46a"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_rainbow.ts": {
+    "mtime": 1777687660.3732119,
+    "hash": "bf23208e4a7f3f80f15597cbc12c9ef3"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_android.ts": {
+    "mtime": 1777687660.3728955,
+    "hash": "ed6028c1533987df9463f6c19ad729f5"
+  },
+  "/home/user/MyMaterials/typescript/scheme/scheme_monochrome.ts": {
+    "mtime": 1777687660.3732119,
+    "hash": "a221cf79735b1b9ab744d61a4ebe87db"
+  },
+  "/home/user/MyMaterials/swift/Package.swift": {
+    "mtime": 1777687660.335363,
+    "hash": "a5784b56be0094c1f644d50c8f81e019"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/PalettesTest/TonalPalettesTests.swift": {
+    "mtime": 1777687660.3530302,
+    "hash": "792f17781e6c1d91c291ec77ca0234ca"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/HctTests/HctTests.swift": {
+    "mtime": 1777687660.3530302,
+    "hash": "ff4e95164587df5355f51f6b061083c1"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/HctTests/ViewingConditionsTests.swift": {
+    "mtime": 1777687660.3530302,
+    "hash": "66ffa688b4707eb67c1ca6ca1834b9b7"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/HctTests/Cam16Tests.swift": {
+    "mtime": 1777687660.350483,
+    "hash": "61d8cf86a728323c0c0f372eb2f3234b"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/UtilsTests/ColorUtilsTests.swift": {
+    "mtime": 1777687660.3572118,
+    "hash": "a935b5f548ceab1b2836d7f321ae28c0"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/UtilsTests/MathUtilsTests.swift": {
+    "mtime": 1777687660.3595753,
+    "hash": "6d552d903a5927324453944cea6fb15f"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/UtilsTests/StringUtilsTests.swift": {
+    "mtime": 1777687660.3595753,
+    "hash": "1b821fe5fe8bb96438e0385f030e895c"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/DynamicColorTests/DynamicColorTests.swift": {
+    "mtime": 1777687660.350483,
+    "hash": "4656980e2e96f8a07469979aa62abb67"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/DislikeTests/DislikeAnalyzerTests.swift": {
+    "mtime": 1777687660.350483,
+    "hash": "742f84b6c199ea035a4153bb85aa8253"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/ContrastTests/ContrastTests.swift": {
+    "mtime": 1777687660.350483,
+    "hash": "3477d5b53658142f4a2f7d7b3ab70e5f"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/SchemeFruitSaladTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "29042435b7fe298822f6ba8bd03b9883"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/SchemeContentTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "3692f225883e7f37f1f008277963aa12"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/SchemeNeutralTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "89e2f552156a85a807427d73c158f02f"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/SchemeExpressiveTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "68758064f3664d0f3c0da3c788c5e466"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/SchemeRainbowTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "faa435acaa5d4a8276d64e349400742d"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/SchemeTonalSpotTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "b1149aab1604b16ab58b5e9b13d113d9"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/SchemeFidelityTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "e875ae58728e6d1a2db6cb0d6de2ae11"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/SchemeVibrantTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "cd29426252aa16ae3fde5d828557b4a9"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/SchemeMonochromeTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "1e2ecab55dc69825192ad82f1df58543"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/SchemeTests/DynamicSchemeTests.swift": {
+    "mtime": 1777687660.3532119,
+    "hash": "fc227a5b90930562b064f541879907bb"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/BlendTests/BlendTests.swift": {
+    "mtime": 1777687660.350483,
+    "hash": "43d30c1c2918a9fcb56a59e26155407c"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/ScoreTests/ScoreTests.swift": {
+    "mtime": 1777687660.3553586,
+    "hash": "4118279e065e4a723779701279734131"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/QuantizeTests/QuantizeWuTests.swift": {
+    "mtime": 1777687660.3532119,
+    "hash": "2ca87d2267887ddce018f24cd114f393"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/QuantizeTests/QuantizeCelebiTests.swift": {
+    "mtime": 1777687660.3530302,
+    "hash": "2ad1c910e74df450346ac770b3d51a11"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/QuantizeTests/QuantizeWsmeansTests.swift": {
+    "mtime": 1777687660.3532119,
+    "hash": "8acf54d9993091f706a548dad4e1987b"
+  },
+  "/home/user/MyMaterials/swift/Tests/MaterialColorUtilitiesTests/TemperatureTests/TemperatureCacheTests.swift": {
+    "mtime": 1777687660.3572118,
+    "hash": "ff9c202fddc139c2941bf35daff6efb0"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Utils/StringUtils.swift": {
+    "mtime": 1777687660.3500187,
+    "hash": "919fa0bfb5c343015b65164a6a004dce"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Utils/MathUtils.swift": {
+    "mtime": 1777687660.3500187,
+    "hash": "4c62a48f5484319a41d5eda056a48da2"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Utils/ColorUtils.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "75db4bde46ec2f859cc9400015130f40"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Score/Score.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "e09ff63d1b0bdd2afd6870ab20f8df2a"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Scheme/SchemeContent.swift": {
+    "mtime": 1777687660.3452117,
+    "hash": "6244ab202fe3ca5525435183624bf021"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Scheme/SchemeRainbow.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "6d01a1ab090fef1b26963a958b07da32"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Scheme/SchemeVibrant.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "9f4fd594462e4b18b6e1b9c99525ad9b"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Scheme/SchemeNeutral.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "b6a46bb53493fc6f1e11c560409b6b52"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Scheme/SchemeFidelity.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "9e8afb3c2861d6739d394b95a2a4aff1"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Scheme/SchemeExpressive.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "9a8f7843a0afee05b2e937e7c114bc23"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Scheme/SchemeFruitSalad.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "513db9b5ea256f893a68c9a7291d699e"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Scheme/SchemeMonochrome.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "296b68d291602ed4ba9f60ae349da0d7"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Scheme/SchemeTonalSpot.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "1d01c942b16b375cb0af5318e9ae0380"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Hct/Cam16.swift": {
+    "mtime": 1777687660.339587,
+    "hash": "3a87f5867e86b55dd7441fe07ca5e169"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Hct/Hct.swift": {
+    "mtime": 1777687660.342147,
+    "hash": "000e56e32a775b2131486eb460ca77d8"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Hct/ViewingConditions.swift": {
+    "mtime": 1777687660.342147,
+    "hash": "6f3ddde4e5b518bd7cba17a6137d7e57"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Hct/HctSolver.swift": {
+    "mtime": 1777687660.342147,
+    "hash": "f1cae749dbd61b8825ff5854dd664e28"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/DynamicColor/MaterialDynamicColors.swift": {
+    "mtime": 1777687660.339587,
+    "hash": "ca72367d295457e432aea7e2e703a423"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/DynamicColor/Variant.swift": {
+    "mtime": 1777687660.339587,
+    "hash": "83d1383734abef985c9bc78f1e23d4fd"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/DynamicColor/ToneDeltaPair.swift": {
+    "mtime": 1777687660.339587,
+    "hash": "d427be55cec07858e93ec8a35c12e0f4"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/DynamicColor/DynamicSchemeProvider.swift": {
+    "mtime": 1777687660.339587,
+    "hash": "56c17cf881626c6a5c118c5f0d12a43b"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/DynamicColor/ContrastCurve.swift": {
+    "mtime": 1777687660.3373256,
+    "hash": "0521c1b2c6d8520eac06d83b7b6e0e36"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/DynamicColor/DynamicScheme.swift": {
+    "mtime": 1777687660.339587,
+    "hash": "bf5f5dcca0c89d4db4d5057f2e69c68f"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/DynamicColor/DynamicColor.swift": {
+    "mtime": 1777687660.339587,
+    "hash": "50a604cdf073723d11ae13602c282f9b"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Temperature/TemperatureCache.swift": {
+    "mtime": 1777687660.3470824,
+    "hash": "a8a9e4eea4d020022759d14a18bbe392"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Contrast/Contrast.swift": {
+    "mtime": 1777687660.3373256,
+    "hash": "92222c8ce71295ddaccfc63ace7c7aab"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Quantize/PointProvider.swift": {
+    "mtime": 1777687660.3435357,
+    "hash": "ff4b90f84e562c65ddc57fd5d0f5f63a"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Quantize/QuantizerMap.swift": {
+    "mtime": 1777687660.344451,
+    "hash": "4ed2b44a63b57b3a44281a932efc63a2"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Quantize/PointProviderLab.swift": {
+    "mtime": 1777687660.344451,
+    "hash": "d66d173dc451aa54e4ed47755690838a"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Quantize/QuantizerWu.swift": {
+    "mtime": 1777687660.344451,
+    "hash": "dcc3687329cad9f750a2b8b53ab33e5c"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Quantize/QuantizerCelebi.swift": {
+    "mtime": 1777687660.344451,
+    "hash": "736a81065646d9b3927347a62aabbd76"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Quantize/Quantizer.swift": {
+    "mtime": 1777687660.344451,
+    "hash": "30319662b1d7cce29678459ffb33c0e4"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Quantize/QuantizerWsmeans.swift": {
+    "mtime": 1777687660.344451,
+    "hash": "7df8210966b796c7e8e961f76bf6a0ac"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Palettes/TonalPalette.swift": {
+    "mtime": 1777687660.3435357,
+    "hash": "863dfe09baa9a461a032320777472d1c"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Palettes/CorePalettes.swift": {
+    "mtime": 1777687660.342147,
+    "hash": "fd9aa3edef5f7142256c12d797bc2351"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Blend/Blend.swift": {
+    "mtime": 1777687660.3373256,
+    "hash": "9d7e61ac2b5165ce37c1748f184809f5"
+  },
+  "/home/user/MyMaterials/swift/Sources/MaterialColorUtilities/Dislike/DislikeAnalyzer.swift": {
+    "mtime": 1777687660.3373256,
+    "hash": "9d787b59062258520d816eedcb2a1482"
+  },
+  "/home/user/MyMaterials/cpp/contrast/contrast.h": {
+    "mtime": 1777687660.2469187,
+    "hash": "235b8969e129d21a825570ab27a713fe"
+  },
+  "/home/user/MyMaterials/cpp/contrast/contrast.cc": {
+    "mtime": 1777687660.2452118,
+    "hash": "9678a530cee2a6f5f2b060d343b687d6"
+  },
+  "/home/user/MyMaterials/cpp/contrast/contrast_test.cc": {
+    "mtime": 1777687660.2469187,
+    "hash": "14fb260f986b22025193ffae16e64134"
+  },
+  "/home/user/MyMaterials/cpp/dynamiccolor/material_dynamic_colors.cc": {
+    "mtime": 1777687660.2484753,
+    "hash": "f3b1ec8e334d1cea62b55c11447de6df"
+  },
+  "/home/user/MyMaterials/cpp/dynamiccolor/variant.h": {
+    "mtime": 1777687660.2492118,
+    "hash": "793fcb71e29ba3ec57affaf48fcf588f"
+  },
+  "/home/user/MyMaterials/cpp/dynamiccolor/dynamic_scheme.h": {
+    "mtime": 1777687660.2484753,
+    "hash": "cae85782004fe053fb49fab0f5739c90"
+  },
+  "/home/user/MyMaterials/cpp/dynamiccolor/tone_delta_pair.h": {
+    "mtime": 1777687660.2484753,
+    "hash": "1c7db859905a54c767683485d1647bda"
+  },
+  "/home/user/MyMaterials/cpp/dynamiccolor/dynamic_color.cc": {
+    "mtime": 1777687660.2484753,
+    "hash": "27f6ae149b7176bdb864ad8b590efae2"
+  },
+  "/home/user/MyMaterials/cpp/dynamiccolor/dynamic_scheme.cc": {
+    "mtime": 1777687660.2484753,
+    "hash": "b753cfab39dffdd63c5dae089e3a6cbc"
+  },
+  "/home/user/MyMaterials/cpp/dynamiccolor/dynamic_color.h": {
+    "mtime": 1777687660.2484753,
+    "hash": "5cec80c4193e39c6a37c1865d77ee322"
+  },
+  "/home/user/MyMaterials/cpp/dynamiccolor/material_dynamic_colors.h": {
+    "mtime": 1777687660.2484753,
+    "hash": "3fcfe5c6515e59efd91557f42c07ae03"
+  },
+  "/home/user/MyMaterials/cpp/dynamiccolor/contrast_curve.h": {
+    "mtime": 1777687660.2476628,
+    "hash": "d83891b3ccc089026822360587ed44fb"
+  },
+  "/home/user/MyMaterials/cpp/quantize/wu_test.cc": {
+    "mtime": 1777687660.2532117,
+    "hash": "c3a102a14a9e4aeda17de56c17dc7ce2"
+  },
+  "/home/user/MyMaterials/cpp/quantize/celebi_test.cc": {
+    "mtime": 1777687660.2525692,
+    "hash": "d0d3513971538710725741dec58e8b52"
+  },
+  "/home/user/MyMaterials/cpp/quantize/wu.cc": {
+    "mtime": 1777687660.2525692,
+    "hash": "95c3fb714948c6ff75acdb0f2a0f565b"
+  },
+  "/home/user/MyMaterials/cpp/quantize/wsmeans.cc": {
+    "mtime": 1777687660.2525692,
+    "hash": "87cfd8e5b1055024c32c90e4ce3d60ee"
+  },
+  "/home/user/MyMaterials/cpp/quantize/lab.h": {
+    "mtime": 1777687660.2525692,
+    "hash": "cffb891de74dc5bbe76902f205f0643e"
+  },
+  "/home/user/MyMaterials/cpp/quantize/celebi.cc": {
+    "mtime": 1777687660.2512448,
+    "hash": "25d984a1906267b8bccbfa39b91c8948"
+  },
+  "/home/user/MyMaterials/cpp/quantize/wsmeans_test.cc": {
+    "mtime": 1777687660.2525692,
+    "hash": "abdbdc80efaf5084160d46abb1da7c4c"
+  },
+  "/home/user/MyMaterials/cpp/quantize/lab.cc": {
+    "mtime": 1777687660.2525692,
+    "hash": "552e6b55f2bfdd279ce48da7cbd44dfd"
+  },
+  "/home/user/MyMaterials/cpp/quantize/wsmeans.h": {
+    "mtime": 1777687660.2525692,
+    "hash": "73db6f7461bccb3c8d13f46a6075e7e8"
+  },
+  "/home/user/MyMaterials/cpp/quantize/wu.h": {
+    "mtime": 1777687660.2532117,
+    "hash": "b6168ca4632d1654a9b54e729cb9e938"
+  },
+  "/home/user/MyMaterials/cpp/quantize/celebi.h": {
+    "mtime": 1777687660.2525692,
+    "hash": "fc5fdeb8f392d56fd3cd1188aff1887f"
+  },
+  "/home/user/MyMaterials/cpp/dislike/dislike_test.cc": {
+    "mtime": 1777687660.2476628,
+    "hash": "8dc8f27509c43fbecb83226280c06f74"
+  },
+  "/home/user/MyMaterials/cpp/dislike/dislike.h": {
+    "mtime": 1777687660.2476628,
+    "hash": "b6274764df96d80e6c6f0f23ccca4e58"
+  },
+  "/home/user/MyMaterials/cpp/dislike/dislike.cc": {
+    "mtime": 1777687660.2469187,
+    "hash": "2e0321d9972430fa25d900d6277248a9"
+  },
+  "/home/user/MyMaterials/cpp/palettes/core.h": {
+    "mtime": 1777687660.2492118,
+    "hash": "ac88f5558827a63fd9ebcb0bb549ba81"
+  },
+  "/home/user/MyMaterials/cpp/palettes/tones.cc": {
+    "mtime": 1777687660.2512448,
+    "hash": "21a5d30713af5b2bcea6bf15c1cbfde6"
+  },
+  "/home/user/MyMaterials/cpp/palettes/tones.h": {
+    "mtime": 1777687660.2512448,
+    "hash": "678930bc6d84ba06989974813e3f6cd0"
+  },
+  "/home/user/MyMaterials/cpp/palettes/tones_test.cc": {
+    "mtime": 1777687660.2512448,
+    "hash": "2e8e63bb02cd44cd206700531a479584"
+  },
+  "/home/user/MyMaterials/cpp/blend/blend.h": {
+    "mtime": 1777687660.2429743,
+    "hash": "7077b3665ae1c204c9ef2e9e92e3141e"
+  },
+  "/home/user/MyMaterials/cpp/blend/blend.cc": {
+    "mtime": 1777687660.241212,
+    "hash": "6e7c36443915cbe190b724fd2042f978"
+  },
+  "/home/user/MyMaterials/cpp/blend/blend_test.cc": {
+    "mtime": 1777687660.2429743,
+    "hash": "9ec49eb6e7a8d0a5cc786f26f30c8927"
+  },
+  "/home/user/MyMaterials/cpp/temperature/temperature_cache.cc": {
+    "mtime": 1777687660.259493,
+    "hash": "8b51fae7b72c28cf22602ea581fd8d07"
+  },
+  "/home/user/MyMaterials/cpp/temperature/temperature_cache.h": {
+    "mtime": 1777687660.2605853,
+    "hash": "1f8ae8974b354a0c5809398add87e03e"
+  },
+  "/home/user/MyMaterials/cpp/temperature/temperature_cache_test.cc": {
+    "mtime": 1777687660.2605853,
+    "hash": "22d0ea0305d878b8b24ef5172b1dcf56"
+  },
+  "/home/user/MyMaterials/cpp/cam/hct_solver.h": {
+    "mtime": 1777687660.2440174,
+    "hash": "bbb15bad42f343193da9e611fc98cecc"
+  },
+  "/home/user/MyMaterials/cpp/cam/hct_solver.cc": {
+    "mtime": 1777687660.2440174,
+    "hash": "bc7f2255eb23323ff22f369084a16b2b"
+  },
+  "/home/user/MyMaterials/cpp/cam/hct.cc": {
+    "mtime": 1777687660.2440174,
+    "hash": "37080c5723d5deda481aca2fe26b79f6"
+  },
+  "/home/user/MyMaterials/cpp/cam/hct_test.cc": {
+    "mtime": 1777687660.2440174,
+    "hash": "74c0bfa2f78d8423b1194c5e335508d4"
+  },
+  "/home/user/MyMaterials/cpp/cam/viewing_conditions.h": {
+    "mtime": 1777687660.2452118,
+    "hash": "db39808523f3a337a19975d4ca70606e"
+  },
+  "/home/user/MyMaterials/cpp/cam/cam_test.cc": {
+    "mtime": 1777687660.2440174,
+    "hash": "a7c616091510b4633f95af86f09a773d"
+  },
+  "/home/user/MyMaterials/cpp/cam/cam.h": {
+    "mtime": 1777687660.2440174,
+    "hash": "6ed9299b248f8fe297bc0e56b2b60c75"
+  },
+  "/home/user/MyMaterials/cpp/cam/cam.cc": {
+    "mtime": 1777687660.2429743,
+    "hash": "3fd93b675faee96c85931b752bf06537"
+  },
+  "/home/user/MyMaterials/cpp/cam/hct.h": {
+    "mtime": 1777687660.2440174,
+    "hash": "035df3541aa54434bdfed9b8cc723fba"
+  },
+  "/home/user/MyMaterials/cpp/cam/hct_solver_test.cc": {
+    "mtime": 1777687660.2440174,
+    "hash": "0a3781ef454195db13b4ca4adb38140d"
+  },
+  "/home/user/MyMaterials/cpp/cam/viewing_conditions.cc": {
+    "mtime": 1777687660.2440174,
+    "hash": "4ddc4f5a9ae41c39eac43e3e99083659"
+  },
+  "/home/user/MyMaterials/cpp/score/score_test.cc": {
+    "mtime": 1777687660.259493,
+    "hash": "be4b70f28cab1aae4fffca3d35e75575"
+  },
+  "/home/user/MyMaterials/cpp/score/score.cc": {
+    "mtime": 1777687660.257212,
+    "hash": "99fac6db4453441a6f75ca1a27a70be0"
+  },
+  "/home/user/MyMaterials/cpp/score/score.h": {
+    "mtime": 1777687660.259493,
+    "hash": "325b34c05e9f1cf05614f6c570accebd"
+  },
+  "/home/user/MyMaterials/cpp/utils/utils.cc": {
+    "mtime": 1777687660.2605853,
+    "hash": "8c047611a144b5dc5a74be706e38fceb"
+  },
+  "/home/user/MyMaterials/cpp/utils/utils.h": {
+    "mtime": 1777687660.2616904,
+    "hash": "e63708acd1e6985b7793b09a1d2bffc9"
+  },
+  "/home/user/MyMaterials/cpp/utils/utils_test.cc": {
+    "mtime": 1777687660.2616904,
+    "hash": "c6b394fa0bc366ab16b36a5d8c9fafd2"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_monochrome.h": {
+    "mtime": 1777687660.2552712,
+    "hash": "94745a811731ecc5580d5c2a12744704"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_content.cc": {
+    "mtime": 1777687660.2532117,
+    "hash": "81f09452a895246beb26d1a99d114aef"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_tonal_spot.cc": {
+    "mtime": 1777687660.2552712,
+    "hash": "1951460fbe057e7b1c13fd834a723f69"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_fruit_salad.cc": {
+    "mtime": 1777687660.2552712,
+    "hash": "15f212c3c8380407a29777e9aa78e528"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_monochrome_test.cc": {
+    "mtime": 1777687660.2552712,
+    "hash": "537f71926920607e477dd672dbef96be"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_vibrant.cc": {
+    "mtime": 1777687660.257212,
+    "hash": "48926e06c2eefc56b0b2487cd3826404"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_expressive.cc": {
+    "mtime": 1777687660.2552712,
+    "hash": "cd2507755aaa017fd6f8f8fd6c251d6c"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_monochrome.cc": {
+    "mtime": 1777687660.2552712,
+    "hash": "0f850f875bf20054980a12516228f966"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_fruit_salad.h": {
+    "mtime": 1777687660.2552712,
+    "hash": "ae0d62f653b4754d715496a23b1b25cd"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_fidelity.h": {
+    "mtime": 1777687660.2552712,
+    "hash": "e5bc8a0b4a3ffd52a785e0a60cd2e822"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_content.h": {
+    "mtime": 1777687660.2552712,
+    "hash": "97a8c5252e72ce3feba8a51695f4088b"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_tonal_spot.h": {
+    "mtime": 1777687660.257212,
+    "hash": "3f8db77f9fe30671a731ec20cbbe1e54"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_expressive.h": {
+    "mtime": 1777687660.2552712,
+    "hash": "30c0f2077eab4ee10b9c09215efcd5ba"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_neutral.h": {
+    "mtime": 1777687660.2552712,
+    "hash": "3f7f716fbffa37806552f6d06b15b615"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_vibrant.h": {
+    "mtime": 1777687660.257212,
+    "hash": "2a7ec5ca235cb807d3a288390e3b830c"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_neutral.cc": {
+    "mtime": 1777687660.2552712,
+    "hash": "f94429fa9f2fe1a50c9589bb659b6ec6"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_rainbow.h": {
+    "mtime": 1777687660.2552712,
+    "hash": "ed737fbbd77cc49736754c61925413f1"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_fidelity.cc": {
+    "mtime": 1777687660.2552712,
+    "hash": "b67d14514cc8dd58c61deb0ad6a1ec9c"
+  },
+  "/home/user/MyMaterials/cpp/scheme/scheme_rainbow.cc": {
+    "mtime": 1777687660.2552712,
+    "hash": "741344371626e9e951f7a13e75609f30"
+  },
+  "/home/user/MyMaterials/pull_request_template.md": {
+    "mtime": 1777687660.333212,
+    "hash": "bdedbb94b2ee66ea0eb6a88abfa21097"
+  },
+  "/home/user/MyMaterials/README.md": {
+    "mtime": 1777687660.2252119,
+    "hash": "4c8b30e737617ea2608ab8065b3c9cc3"
+  },
+  "/home/user/MyMaterials/CONTRIBUTING.md": {
+    "mtime": 1777687660.2231653,
+    "hash": "5e70907de1ebfcdff72ca1f106231c96"
+  },
+  "/home/user/MyMaterials/dart/analysis_options.yaml": {
+    "mtime": 1777687660.2629762,
+    "hash": "fb1807afe52140b8f5053670308675c5"
+  },
+  "/home/user/MyMaterials/dart/README.md": {
+    "mtime": 1777687660.2629762,
+    "hash": "6d6ffe9b2f5c3240b5400e6e92a79156"
+  },
+  "/home/user/MyMaterials/dart/pubspec.yaml": {
+    "mtime": 1777687660.276432,
+    "hash": "e8d39932392eb90704f2497eb2302e75"
+  },
+  "/home/user/MyMaterials/dart/CHANGELOG.md": {
+    "mtime": 1777687660.2616904,
+    "hash": "43f08d32895e867a1904e2d109a0607c"
+  },
+  "/home/user/MyMaterials/typescript/README.md": {
+    "mtime": 1777687660.3605187,
+    "hash": "af520a66e0c6852ab08d913a01424218"
+  },
+  "/home/user/MyMaterials/concepts/dynamic_color_scheme.md": {
+    "mtime": 1777687660.231121,
+    "hash": "5f6666bfede792fd1f337a4556f5642e"
+  },
+  "/home/user/MyMaterials/concepts/scheme_generation.md": {
+    "mtime": 1777687660.237212,
+    "hash": "d2c43135a9610a8c6e4628da7f1ee3c0"
+  },
+  "/home/user/MyMaterials/concepts/color_spaces.md": {
+    "mtime": 1777687660.231121,
+    "hash": "a518e0940be038661ba86a0a15fedcb4"
+  },
+  "/home/user/MyMaterials/concepts/contrast_for_accessibility.md": {
+    "mtime": 1777687660.231121,
+    "hash": "ed0318212abb4f1f2ef369beb58016d1"
+  },
+  "/home/user/MyMaterials/concepts/color_extraction.md": {
+    "mtime": 1777687660.2292118,
+    "hash": "4ac6eca92275f31079a7080d98bdcbfa"
+  },
+  "/home/user/MyMaterials/concepts/color_terms.md": {
+    "mtime": 1777687660.231121,
+    "hash": "f9ee3398dd94f9ae0bb2dac97c66761b"
+  },
+  "/home/user/MyMaterials/dev_guide/creating_color_scheme.md": {
+    "mtime": 1777687660.30177,
+    "hash": "ecff9dccbc344dcd5cb1f2a87119eeae"
+  },
+  "/home/user/MyMaterials/dev_guide/refining_contrast.md": {
+    "mtime": 1777687660.302508,
+    "hash": "2aec0a74504c8113f6e130bdb5388c87"
+  },
+  "/home/user/MyMaterials/dev_guide/extracting_colors.md": {
+    "mtime": 1777687660.302508,
+    "hash": "9a2ae34335e43af79bcc6df3afdde542"
+  },
+  "/home/user/MyMaterials/swift/README.md": {
+    "mtime": 1777687660.335363,
+    "hash": "03c11ad3416387e426b83434b609e0d1"
+  },
+  "/home/user/MyMaterials/swift/Guides/Hct.md": {
+    "mtime": 1777687660.335363,
+    "hash": "7be77a839fac49c682b89c63fc6e03bd"
+  },
+  "/home/user/MyMaterials/cheat_sheet.png": {
+    "mtime": 1777687660.2252119,
+    "hash": "3acab9408f27be0163172d6e6bd4bb17"
+  },
+  "/home/user/MyMaterials/dart/screenshots/material_you_1.png": {
+    "mtime": 1777687660.277212,
+    "hash": "d7b19853f4f2a76ba077be6a3a102584"
+  },
+  "/home/user/MyMaterials/dart/screenshots/material_you_3.png": {
+    "mtime": 1777687660.2892118,
+    "hash": "35cec747ed408ec189079365c8bc1d1f"
+  },
+  "/home/user/MyMaterials/dart/screenshots/material_you_2.png": {
+    "mtime": 1777687660.2852118,
+    "hash": "df23e9cf3a4daa2aeddf13518af93865"
+  },
+  "/home/user/MyMaterials/dart/screenshots/material_you_4.png": {
+    "mtime": 1777687660.293212,
+    "hash": "e649f93c34439ce506064256fdcd049e"
+  },
+  "/home/user/MyMaterials/concepts/images/wallpaper_based_color.png": {
+    "mtime": 1777687660.237212,
+    "hash": "37485656c2c833ad60322ccd0b8b608f"
+  },
+  "/home/user/MyMaterials/concepts/images/fidelity_spec.png": {
+    "mtime": 1777687660.2342765,
+    "hash": "8dcaeb60137b992b61b6616fbe4347af"
+  },
+  "/home/user/MyMaterials/concepts/images/orange.png": {
+    "mtime": 1777687660.2342765,
+    "hash": "505e430b38c6accfa207d346286e3569"
+  },
+  "/home/user/MyMaterials/concepts/images/hue_chroma_spec.png": {
+    "mtime": 1777687660.2342765,
+    "hash": "a4f3904b42f1505c13dc60a17336e1c6"
+  },
+  "/home/user/MyMaterials/concepts/images/tone_spec.png": {
+    "mtime": 1777687660.237212,
+    "hash": "96e2073e8aeed0eddf2fc0b8722a2d3d"
+  },
+  "/home/user/MyMaterials/concepts/images/content_based_color.png": {
+    "mtime": 1777687660.231121,
+    "hash": "f9cf759c3f585de5eaa07c4068f7d578"
+  }
+}

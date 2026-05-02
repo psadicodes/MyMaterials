@@ -27,7 +27,7 @@
       "label": "Blend Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -38,7 +38,7 @@
       "label": "Contrast Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -49,7 +49,7 @@
       "label": "Dislike Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -60,7 +60,7 @@
       "label": "DynamicColor Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -71,7 +71,7 @@
       "label": "HCT Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -82,7 +82,7 @@
       "label": "Palettes Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -93,7 +93,7 @@
       "label": "Quantize Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -104,7 +104,7 @@
       "label": "Scheme Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -115,7 +115,7 @@
       "label": "Score Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -126,7 +126,7 @@
       "label": "Temperature Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -137,7 +137,7 @@
       "label": "Utilities Component",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
@@ -155,8 +155,8 @@
       "contributor": null
     },
     {
-      "id": "dart_readme_dart_package",
-      "label": "Dart Package: material_color_utilities",
+      "id": "dart_mcu_package",
+      "label": "Dart material_color_utilities Package",
       "file_type": "document",
       "source_file": "dart/README.md",
       "source_location": null,
@@ -166,8 +166,8 @@
       "contributor": null
     },
     {
-      "id": "dart_readme_dynamic_color_package",
-      "label": "dynamic_color Dart Package",
+      "id": "dart_dynamic_color_package",
+      "label": "Dart dynamic_color Package",
       "file_type": "document",
       "source_file": "dart/README.md",
       "source_location": null,
@@ -177,19 +177,19 @@
       "contributor": null
     },
     {
-      "id": "dart_pubspec_material_color_utilities_v013",
-      "label": "material_color_utilities v0.13.0 (Dart)",
+      "id": "dart_pubspec_version",
+      "label": "Dart Package Version 0.13.0",
       "file_type": "document",
       "source_file": "dart/pubspec.yaml",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
-      "author": "Google LLC",
+      "author": null,
       "contributor": null
     },
     {
-      "id": "dart_changelog_materialdynamiccolors",
-      "label": "MaterialDynamicColors",
+      "id": "dart_tonal_palette_class",
+      "label": "TonalPalette (Dart class)",
       "file_type": "document",
       "source_file": "dart/CHANGELOG.md",
       "source_location": null,
@@ -199,8 +199,8 @@
       "contributor": null
     },
     {
-      "id": "dart_changelog_tonalpalette",
-      "label": "TonalPalette",
+      "id": "dart_material_dynamic_colors_class",
+      "label": "MaterialDynamicColors (Dart class)",
       "file_type": "document",
       "source_file": "dart/CHANGELOG.md",
       "source_location": null,
@@ -210,8 +210,8 @@
       "contributor": null
     },
     {
-      "id": "dart_changelog_dynamicscheme",
-      "label": "DynamicScheme",
+      "id": "dart_dynamic_scheme_class",
+      "label": "DynamicScheme (Dart class)",
       "file_type": "document",
       "source_file": "dart/CHANGELOG.md",
       "source_location": null,
@@ -221,8 +221,8 @@
       "contributor": null
     },
     {
-      "id": "dart_changelog_dynamiccolor",
-      "label": "DynamicColor",
+      "id": "dart_dynamic_color_class",
+      "label": "DynamicColor (Dart class)",
       "file_type": "document",
       "source_file": "dart/CHANGELOG.md",
       "source_location": null,
@@ -232,7 +232,84 @@
       "contributor": null
     },
     {
-      "id": "dart_changelog_hct",
+      "id": "dart_scheme_expressive",
+      "label": "SchemeExpressive",
+      "file_type": "document",
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dart_scheme_tonal_spot",
+      "label": "SchemeTonalSpot",
+      "file_type": "document",
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dart_scheme_vibrant",
+      "label": "SchemeVibrant",
+      "file_type": "document",
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dart_scheme_monochrome",
+      "label": "SchemeMonochrome",
+      "file_type": "document",
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dart_scheme_neutral",
+      "label": "SchemeNeutral",
+      "file_type": "document",
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dart_scheme_fidelity",
+      "label": "SchemeFidelity",
+      "file_type": "document",
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dart_scheme_content",
+      "label": "SchemeContent",
+      "file_type": "document",
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dart_hct_class",
       "label": "Hct (Dart class)",
       "file_type": "document",
       "source_file": "dart/CHANGELOG.md",
@@ -243,8 +320,30 @@
       "contributor": null
     },
     {
-      "id": "typescript_readme_typescript_package",
-      "label": "TypeScript Package: @material/material-color-utilities",
+      "id": "dart_temperature_cache",
+      "label": "TemperatureCache",
+      "file_type": "document",
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dart_dislike_analyzer",
+      "label": "DislikeAnalyzer",
+      "file_type": "document",
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ts_mcu_package",
+      "label": "TypeScript material-color-utilities Package",
       "file_type": "document",
       "source_file": "typescript/README.md",
       "source_location": null,
@@ -254,42 +353,19 @@
       "contributor": null
     },
     {
-      "id": "typescript_readme_hct_class",
-      "label": "Hct (TypeScript class)",
-      "file_type": "document",
-      "source_file": "typescript/README.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "typescript_readme_theme_from_source_color",
-      "label": "themeFromSourceColor (TypeScript API)",
-      "file_type": "document",
-      "source_file": "typescript/README.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "dynamic_color_scheme_hct_color_space",
-      "label": "HCT Color Space",
+      "id": "concept_dynamic_color_scheme",
+      "label": "Dynamic Color Scheme Concept",
       "file_type": "document",
       "source_file": "concepts/dynamic_color_scheme.md",
       "source_location": null,
       "source_url": "https://m3.material.io/styles/color/system/how-the-system-works",
       "captured_at": null,
       "author": null,
-      "contributor": null,
-      "rationale": "HCT was chosen because it enables flexible, predictable color manipulation while providing perceptually meaningful dimensions (hue, chroma, tone). Traditional spaces like RGB do not adequately capture relationships between colors, whereas HCT supports both accessibility (via tone-based contrast) and expressive design."
+      "contributor": null
     },
     {
-      "id": "dynamic_color_scheme_dynamic_scheme",
-      "label": "DynamicScheme (Concept)",
+      "id": "concept_hct_color_space",
+      "label": "HCT Color Space",
       "file_type": "document",
       "source_file": "concepts/dynamic_color_scheme.md",
       "source_location": null,
@@ -297,11 +373,11 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "rationale": "DynamicScheme abstracts exact color values from app developers, who only choose color roles. This separation allows the system to swap underlying tonal palette values without breaking UI structure."
+      "rationale": "HCT is based on CAM16 hue/chroma and L* from CIELAB as tone. Chosen because it enables perceptually uniform manipulation, allowing predictable color scheme generation that accounts for human visual perception."
     },
     {
-      "id": "dynamic_color_scheme_color_roles",
-      "label": "Color Roles",
+      "id": "concept_hue",
+      "label": "Hue (Color Dimension)",
       "file_type": "document",
       "source_file": "concepts/dynamic_color_scheme.md",
       "source_location": null,
@@ -311,8 +387,8 @@
       "contributor": null
     },
     {
-      "id": "dynamic_color_scheme_design_tokens",
-      "label": "Design Tokens",
+      "id": "concept_chroma",
+      "label": "Chroma (Color Dimension)",
       "file_type": "document",
       "source_file": "concepts/dynamic_color_scheme.md",
       "source_location": null,
@@ -322,7 +398,51 @@
       "contributor": null
     },
     {
-      "id": "dynamic_color_scheme_source_color",
+      "id": "concept_tone",
+      "label": "Tone / Luminance (Color Dimension)",
+      "file_type": "document",
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_dynamic_scheme_interface",
+      "label": "DynamicScheme Interface",
+      "file_type": "document",
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_color_roles",
+      "label": "Material Color Roles",
+      "file_type": "document",
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "source_url": "https://m3.material.io/styles/color/roles",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_tonal_palette",
+      "label": "Tonal Palette",
+      "file_type": "document",
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_source_color",
       "label": "Source Color",
       "file_type": "document",
       "source_file": "concepts/dynamic_color_scheme.md",
@@ -333,330 +453,7 @@
       "contributor": null
     },
     {
-      "id": "dynamic_color_scheme_tonal_palette",
-      "label": "Tonal Palette (Concept)",
-      "file_type": "document",
-      "source_file": "concepts/dynamic_color_scheme.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "dynamic_color_scheme_quantization",
-      "label": "Quantization (Color Extraction)",
-      "file_type": "document",
-      "source_file": "concepts/dynamic_color_scheme.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "scheme_generation_hard_constraints",
-      "label": "Hard Constraints (Scheme Generation)",
-      "file_type": "document",
-      "source_file": "concepts/scheme_generation.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "scheme_generation_soft_constraints",
-      "label": "Soft Constraints (Scheme Generation)",
-      "file_type": "document",
-      "source_file": "concepts/scheme_generation.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "scheme_generation_fidelity_tone_adjustment",
-      "label": "Fidelity Tone Adjustment",
-      "file_type": "document",
-      "source_file": "concepts/scheme_generation.md",
-      "source_location": "Step 3",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "rationale": "Colors in certain hue/tone combinations cannot reach target chroma because HCT gamut is not uniform. Fidelity adjustment corrects these 'impossible' colors by adjusting tone to match source or reach target chroma."
-    },
-    {
-      "id": "scheme_generation_global_tone_constraints",
-      "label": "Global Tone Constraints",
-      "file_type": "document",
-      "source_file": "concepts/scheme_generation.md",
-      "source_location": "Step 4",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "scheme_generation_contrast_tone_adjustments",
-      "label": "Contrast Tone Adjustments",
-      "file_type": "document",
-      "source_file": "concepts/scheme_generation.md",
-      "source_location": "Step 5",
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_spaces_hct_color_space",
-      "label": "HCT Color Space (Technical)",
-      "file_type": "document",
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "rationale": "HCT combines CAM16-JCH hue/chroma with L* (CIELAB) tone. This hybrid was chosen so tone is perceptually uniform (enabling reliable contrast calculation) while hue and chroma follow a color appearance model that accounts for viewing conditions."
-    },
-    {
-      "id": "color_spaces_srgb",
-      "label": "sRGB Color Space",
-      "file_type": "document",
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_spaces_cam16",
-      "label": "CAM16 Color Appearance Model",
-      "file_type": "document",
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_spaces_cam16_jch",
-      "label": "CAM16-JCH",
-      "file_type": "document",
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_spaces_cam16_ucs",
-      "label": "CAM16-UCS",
-      "file_type": "document",
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_spaces_xyz",
-      "label": "CIEXYZ Color Space",
-      "file_type": "document",
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_spaces_cielab",
-      "label": "CIELAB (L*a*b*) Color Space",
-      "file_type": "document",
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_spaces_linear_rgb",
-      "label": "Linear RGB Color Space",
-      "file_type": "document",
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_spaces_viewing_conditions",
-      "label": "ViewingConditions",
-      "file_type": "document",
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "contrast_accessibility_gar",
-      "label": "Google Accessibility Rating (GAR)",
-      "file_type": "document",
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "contrast_accessibility_wcag",
-      "label": "WCAG Contrast Standards",
-      "file_type": "document",
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "contrast_accessibility_contrast_ratio",
-      "label": "Contrast Ratio",
-      "file_type": "document",
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "rationale": "Contrast ratio is defined using the Y component of CIEXYZ (not hue or chroma) because Y directly captures luminance/brightness as perceived by the human visual system, making it the most reliable single-axis measure for legibility."
-    },
-    {
-      "id": "contrast_accessibility_default_contrast",
-      "label": "Default Contrast Level (AA)",
-      "file_type": "document",
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "contrast_accessibility_medium_contrast",
-      "label": "Medium Contrast Level (exceeds AA)",
-      "file_type": "document",
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "contrast_accessibility_high_contrast",
-      "label": "High Contrast Level (AAA)",
-      "file_type": "document",
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_extraction_quantize",
-      "label": "QuantizerCelebi",
-      "file_type": "document",
-      "source_file": "concepts/color_extraction.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "rationale": "Celebi quantizer is recommended because it combines Wu (fast initial clustering) with WSMeans (quality refinement), balancing speed and color fidelity for theme extraction from images."
-    },
-    {
-      "id": "color_extraction_scoring",
-      "label": "Color Scoring",
-      "file_type": "document",
-      "source_file": "concepts/color_extraction.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_extraction_wallpaper_color",
-      "label": "Wallpaper-Based Color Extraction",
-      "file_type": "document",
-      "source_file": "concepts/color_extraction.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_extraction_content_color",
-      "label": "Content-Based Color Extraction",
-      "file_type": "document",
-      "source_file": "concepts/color_extraction.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_terms_dynamic_color",
-      "label": "Dynamic Color (Term)",
-      "file_type": "document",
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_terms_material_color_roles",
-      "label": "Material Color Roles (Term)",
-      "file_type": "document",
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "source_url": "https://m3.material.io/styles/color/roles",
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_terms_scheme_variant",
-      "label": "Scheme Variant",
-      "file_type": "document",
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_terms_key_color",
+      "id": "concept_key_color",
       "label": "Key Color",
       "file_type": "document",
       "source_file": "concepts/color_terms.md",
@@ -667,8 +464,239 @@
       "contributor": null
     },
     {
-      "id": "color_terms_hue",
-      "label": "Hue (Term)",
+      "id": "concept_design_tokens",
+      "label": "Design Tokens",
+      "file_type": "document",
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_scheme_generation",
+      "label": "MCU Scheme Generation Process",
+      "file_type": "document",
+      "source_file": "concepts/scheme_generation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_fidelity_tone_adjustment",
+      "label": "Fidelity Tone Adjustment",
+      "file_type": "document",
+      "source_file": "concepts/scheme_generation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_global_tone_constraints",
+      "label": "Global Tone Constraints",
+      "file_type": "document",
+      "source_file": "concepts/scheme_generation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_contrast_tone_adjustments",
+      "label": "Contrast Tone Adjustments",
+      "file_type": "document",
+      "source_file": "concepts/scheme_generation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_srgb_color_space",
+      "label": "sRGB Color Space",
+      "file_type": "document",
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "source_url": "https://en.wikipedia.org/wiki/SRGB",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_cam16_color_model",
+      "label": "CAM16 Color Appearance Model",
+      "file_type": "document",
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "source_url": "https://en.wikipedia.org/wiki/Color_appearance_model#CAM16",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_xyz_color_space",
+      "label": "CIEXYZ Color Space",
+      "file_type": "document",
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "source_url": "https://en.wikipedia.org/wiki/CIE_1931_color_space",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_cielab_color_space",
+      "label": "CIELAB (L*a*b*) Color Space",
+      "file_type": "document",
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "source_url": "https://en.wikipedia.org/wiki/CIELAB_color_space",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_linear_rgb",
+      "label": "Linear RGB Color Space",
+      "file_type": "document",
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_viewing_conditions",
+      "label": "ViewingConditions",
+      "file_type": "document",
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_contrast_ratio",
+      "label": "Contrast Ratio",
+      "file_type": "document",
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_gar_wcag",
+      "label": "Google Accessibility Rating / WCAG",
+      "file_type": "document",
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_default_contrast",
+      "label": "Default Contrast Level (AA)",
+      "file_type": "document",
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_medium_contrast",
+      "label": "Medium Contrast Level",
+      "file_type": "document",
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_high_contrast",
+      "label": "High Contrast Level (AAA)",
+      "file_type": "document",
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_quantization",
+      "label": "Quantization (Color Extraction)",
+      "file_type": "document",
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_scoring",
+      "label": "Scoring (Color Suitability Ranking)",
+      "file_type": "document",
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_quantizer_celebi",
+      "label": "QuantizerCelebi",
+      "file_type": "document",
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_quantizer_wu",
+      "label": "QuantizerWu",
+      "file_type": "document",
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_quantizer_wsmeans",
+      "label": "QuantizerWSMeans",
+      "file_type": "document",
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_scheme_variant",
+      "label": "Scheme Variant",
       "file_type": "document",
       "source_file": "concepts/color_terms.md",
       "source_location": null,
@@ -678,8 +706,8 @@
       "contributor": null
     },
     {
-      "id": "color_terms_chroma",
-      "label": "Chroma (Term)",
+      "id": "concept_dynamic_color_role",
+      "label": "Dynamic Color (Role)",
       "file_type": "document",
       "source_file": "concepts/color_terms.md",
       "source_location": null,
@@ -689,30 +717,8 @@
       "contributor": null
     },
     {
-      "id": "color_terms_tone",
-      "label": "Tone (Term)",
-      "file_type": "document",
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "color_terms_contrast",
-      "label": "Contrast (Term)",
-      "file_type": "document",
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "source_url": "https://m3.material.io/foundations/glossary",
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "creating_color_scheme_dynamicscheme_api",
-      "label": "DynamicScheme API (Dev Guide)",
+      "id": "devguide_creating_color_scheme",
+      "label": "Dev Guide: Creating a Color Scheme",
       "file_type": "document",
       "source_file": "dev_guide/creating_color_scheme.md",
       "source_location": null,
@@ -722,41 +728,8 @@
       "contributor": null
     },
     {
-      "id": "creating_color_scheme_schemetonalspot",
-      "label": "SchemeTonalSpot",
-      "file_type": "document",
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "creating_color_scheme_schemecontent",
-      "label": "SchemeContent",
-      "file_type": "document",
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "creating_color_scheme_scheme_deprecated",
-      "label": "Scheme (Deprecated Class)",
-      "file_type": "document",
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "refining_contrast_contrast_library",
-      "label": "Contrast Library",
+      "id": "devguide_refining_contrast",
+      "label": "Dev Guide: Refining Contrast",
       "file_type": "document",
       "source_file": "dev_guide/refining_contrast.md",
       "source_location": null,
@@ -766,30 +739,8 @@
       "contributor": null
     },
     {
-      "id": "refining_contrast_ratio_of_tones",
-      "label": "ratioOfTones Method",
-      "file_type": "document",
-      "source_file": "dev_guide/refining_contrast.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "refining_contrast_darker_lighter",
-      "label": "darker / lighter Contrast Functions",
-      "file_type": "document",
-      "source_file": "dev_guide/refining_contrast.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null
-    },
-    {
-      "id": "extracting_colors_quantizer_celebi",
-      "label": "QuantizerCelebi (Dev Guide)",
+      "id": "devguide_extracting_colors",
+      "label": "Dev Guide: Extracting Colors from an Image",
       "file_type": "document",
       "source_file": "dev_guide/extracting_colors.md",
       "source_location": null,
@@ -799,10 +750,10 @@
       "contributor": null
     },
     {
-      "id": "extracting_colors_score_score",
-      "label": "Score.score Method",
+      "id": "devguide_contrast_class",
+      "label": "Contrast Class (ratioOfTones, darker, lighter)",
       "file_type": "document",
-      "source_file": "dev_guide/extracting_colors.md",
+      "source_file": "dev_guide/refining_contrast.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -810,7 +761,18 @@
       "contributor": null
     },
     {
-      "id": "swift_hct_guide_hct_class",
+      "id": "swift_mcu_package",
+      "label": "Swift Material Color Utilities Port",
+      "file_type": "document",
+      "source_file": "swift/README.md",
+      "source_location": null,
+      "source_url": "https://github.com/material-foundation/material-color-utilities",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "swift_hct_class",
       "label": "Hct (Swift class)",
       "file_type": "document",
       "source_file": "swift/Guides/Hct.md",
@@ -821,20 +783,30 @@
       "contributor": null
     },
     {
-      "id": "swift_hct_guide_viewing_conditions",
-      "label": "ViewingConditions (Swift)",
+      "id": "swift_viewing_conditions",
+      "label": "ViewingConditions (Swift class)",
       "file_type": "document",
       "source_file": "swift/Guides/Hct.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
-      "contributor": null,
-      "rationale": "ViewingConditions caches intermediate CAM16 conversion values that only depend on the environment (not the color), providing speed-up while enabling color relativity as described by Josef Albers."
+      "contributor": null
     },
     {
-      "id": "swift_hct_guide_cam16_swift",
+      "id": "swift_cam16_class",
       "label": "Cam16 (Swift class)",
+      "file_type": "document",
+      "source_file": "swift/Guides/Hct.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_color_relativity",
+      "label": "Color Relativity (Josef Albers / Interaction of Color)",
       "file_type": "document",
       "source_file": "swift/Guides/Hct.md",
       "source_location": null,
@@ -862,7 +834,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -872,7 +844,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -882,7 +854,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -892,7 +864,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -902,7 +874,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -912,7 +884,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -922,7 +894,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -932,7 +904,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -942,7 +914,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -952,7 +924,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -962,7 +934,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "Capabilities Overview table",
+      "source_location": null,
       "weight": 1.0
     },
     {
@@ -976,7 +948,7 @@
       "weight": 1.0
     },
     {
-      "source": "dart_readme_dart_package",
+      "source": "dart_mcu_package",
       "target": "readme_material_color_utilities",
       "relation": "references",
       "confidence": "EXTRACTED",
@@ -986,8 +958,8 @@
       "weight": 1.0
     },
     {
-      "source": "dart_readme_dart_package",
-      "target": "dart_readme_dynamic_color_package",
+      "source": "dart_mcu_package",
+      "target": "dart_dynamic_color_package",
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
@@ -996,8 +968,688 @@
       "weight": 1.0
     },
     {
-      "source": "dart_pubspec_material_color_utilities_v013",
-      "target": "dart_readme_dart_package",
+      "source": "ts_mcu_package",
+      "target": "readme_material_color_utilities",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "typescript/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ts_mcu_package",
+      "target": "swift_hct_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "typescript/README.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "swift_mcu_package",
+      "target": "readme_material_color_utilities",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "swift/README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dynamic_color_scheme",
+      "target": "concept_hct_color_space",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dynamic_color_scheme",
+      "target": "concept_dynamic_scheme_interface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dynamic_color_scheme",
+      "target": "concept_color_roles",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dynamic_color_scheme",
+      "target": "concept_tonal_palette",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dynamic_color_scheme",
+      "target": "concept_source_color",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dynamic_color_scheme",
+      "target": "concept_design_tokens",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dynamic_color_scheme",
+      "target": "concept_quantization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_hct_color_space",
+      "target": "concept_hue",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_hct_color_space",
+      "target": "concept_chroma",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_hct_color_space",
+      "target": "concept_tone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_hct_color_space",
+      "target": "concept_cam16_color_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_hct_color_space",
+      "target": "concept_cielab_color_space",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_hct_color_space",
+      "target": "concept_srgb_color_space",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_cam16_color_model",
+      "target": "concept_viewing_conditions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_cam16_color_model",
+      "target": "concept_xyz_color_space",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_spaces.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_cielab_color_space",
+      "target": "concept_tone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_terms.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_scheme_generation",
+      "target": "concept_dynamic_color_scheme",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/scheme_generation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_scheme_generation",
+      "target": "concept_fidelity_tone_adjustment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/scheme_generation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_scheme_generation",
+      "target": "concept_global_tone_constraints",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/scheme_generation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_scheme_generation",
+      "target": "concept_contrast_tone_adjustments",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/scheme_generation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_scheme_generation",
+      "target": "concept_gar_wcag",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/scheme_generation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_contrast_ratio",
+      "target": "concept_xyz_color_space",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_contrast_ratio",
+      "target": "concept_gar_wcag",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_contrast_ratio",
+      "target": "concept_tone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_gar_wcag",
+      "target": "concept_default_contrast",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_gar_wcag",
+      "target": "concept_medium_contrast",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_gar_wcag",
+      "target": "concept_high_contrast",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/contrast_for_accessibility.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_quantization",
+      "target": "concept_quantizer_celebi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_quantizer_celebi",
+      "target": "concept_quantizer_wu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_quantizer_celebi",
+      "target": "concept_quantizer_wsmeans",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_scoring",
+      "target": "concept_source_color",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_quantization",
+      "target": "concept_scoring",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_extraction.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_source_color",
+      "target": "concept_key_color",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_terms.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_key_color",
+      "target": "concept_tonal_palette",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_terms.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dynamic_color_role",
+      "target": "concept_dynamic_scheme_interface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_terms.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_tonal_palette",
+      "target": "concept_hct_color_space",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_terms.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_scheme_variant",
+      "target": "concept_dynamic_scheme_interface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_terms.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_creating_color_scheme",
+      "target": "concept_dynamic_color_scheme",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/creating_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_creating_color_scheme",
+      "target": "dart_dynamic_scheme_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/creating_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_creating_color_scheme",
+      "target": "dart_scheme_tonal_spot",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/creating_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_creating_color_scheme",
+      "target": "dart_scheme_content",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/creating_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_creating_color_scheme",
+      "target": "dart_tonal_palette_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/creating_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_creating_color_scheme",
+      "target": "dart_material_dynamic_colors_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/creating_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_creating_color_scheme",
+      "target": "dart_dynamic_color_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/creating_color_scheme.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_refining_contrast",
+      "target": "concept_contrast_for_accessibility",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/refining_contrast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_refining_contrast",
+      "target": "devguide_contrast_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/refining_contrast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_refining_contrast",
+      "target": "concept_dynamic_scheme_interface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/refining_contrast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_refining_contrast",
+      "target": "dart_dynamic_color_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/refining_contrast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_extracting_colors",
+      "target": "concept_color_extraction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/extracting_colors.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_extracting_colors",
+      "target": "concept_quantizer_celebi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/extracting_colors.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devguide_extracting_colors",
+      "target": "concept_scoring",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev_guide/extracting_colors.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "swift_hct_class",
+      "target": "concept_hct_color_space",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "swift/Guides/Hct.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "swift_hct_class",
+      "target": "swift_viewing_conditions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "swift/Guides/Hct.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "swift_hct_class",
+      "target": "swift_cam16_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "swift/Guides/Hct.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "swift_viewing_conditions",
+      "target": "concept_viewing_conditions",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "swift/Guides/Hct.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "swift_cam16_class",
+      "target": "concept_cam16_color_model",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "swift/Guides/Hct.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "swift_hct_class",
+      "target": "concept_color_relativity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "swift/Guides/Hct.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dart_hct_class",
+      "target": "concept_hct_color_space",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "readme_quantize_component",
+      "target": "concept_quantizer_celebi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_quantize_component",
+      "target": "concept_quantizer_wu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_quantize_component",
+      "target": "concept_quantizer_wsmeans",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_dynamiccolor_component",
+      "target": "dart_dynamic_color_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "readme_scheme_component",
+      "target": "concept_scheme_variant",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_temperature_component",
+      "target": "dart_temperature_cache",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "readme_dislike_component",
+      "target": "dart_dislike_analyzer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "dart_mcu_package",
+      "target": "dart_pubspec_version",
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
@@ -1006,617 +1658,37 @@
       "weight": 1.0
     },
     {
-      "source": "dart_changelog_materialdynamiccolors",
-      "target": "dart_changelog_dynamicscheme",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dart/CHANGELOG.md",
-      "source_location": "0.3.0",
-      "weight": 1.0
-    },
-    {
-      "source": "dart_changelog_dynamiccolor",
-      "target": "dart_changelog_dynamicscheme",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dart/CHANGELOG.md",
-      "source_location": "0.7.0",
-      "weight": 1.0
-    },
-    {
-      "source": "dart_changelog_tonalpalette",
-      "target": "dart_changelog_dynamicscheme",
-      "relation": "references",
+      "source": "concept_hct_color_space",
+      "target": "readme_hct_component",
+      "relation": "conceptually_related_to",
       "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "dart/CHANGELOG.md",
-      "source_location": null,
-      "weight": 0.8
-    },
-    {
-      "source": "typescript_readme_typescript_package",
-      "target": "readme_material_color_utilities",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "typescript/README.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "typescript_readme_typescript_package",
-      "target": "typescript_readme_hct_class",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "typescript/README.md",
-      "source_location": "Getting started code example",
-      "weight": 1.0
-    },
-    {
-      "source": "typescript_readme_typescript_package",
-      "target": "typescript_readme_theme_from_source_color",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "typescript/README.md",
-      "source_location": "Theming code example",
-      "weight": 1.0
-    },
-    {
-      "source": "dynamic_color_scheme_dynamic_scheme",
-      "target": "dynamic_color_scheme_hct_color_space",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
+      "confidence_score": 0.9,
       "source_file": "concepts/dynamic_color_scheme.md",
       "source_location": null,
-      "weight": 1.0
+      "weight": 0.9
     },
     {
-      "source": "dynamic_color_scheme_dynamic_scheme",
-      "target": "dynamic_color_scheme_color_roles",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/dynamic_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "dynamic_color_scheme_dynamic_scheme",
-      "target": "dynamic_color_scheme_tonal_palette",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/dynamic_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "dynamic_color_scheme_dynamic_scheme",
-      "target": "dynamic_color_scheme_design_tokens",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/dynamic_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "dynamic_color_scheme_dynamic_scheme",
-      "target": "dynamic_color_scheme_source_color",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/dynamic_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "dynamic_color_scheme_source_color",
-      "target": "dynamic_color_scheme_quantization",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/dynamic_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "scheme_generation_fidelity_tone_adjustment",
-      "target": "scheme_generation_hard_constraints",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/scheme_generation.md",
-      "source_location": "Step 3",
-      "weight": 1.0
-    },
-    {
-      "source": "scheme_generation_contrast_tone_adjustments",
-      "target": "scheme_generation_global_tone_constraints",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/scheme_generation.md",
-      "source_location": "Step 5",
-      "weight": 1.0
-    },
-    {
-      "source": "scheme_generation_fidelity_tone_adjustment",
-      "target": "dynamic_color_scheme_dynamic_scheme",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/scheme_generation.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "color_spaces_hct_color_space",
-      "target": "color_spaces_cam16_jch",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_spaces.md",
-      "source_location": "HCT section",
-      "weight": 1.0
-    },
-    {
-      "source": "color_spaces_hct_color_space",
-      "target": "color_spaces_cielab",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_spaces.md",
-      "source_location": "HCT section",
-      "weight": 1.0
-    },
-    {
-      "source": "color_spaces_cam16",
-      "target": "color_spaces_viewing_conditions",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_spaces.md",
-      "source_location": "Cam16 section",
-      "weight": 1.0
-    },
-    {
-      "source": "color_spaces_cam16",
-      "target": "color_spaces_cam16_jch",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_spaces.md",
-      "source_location": "Cam16 section",
-      "weight": 1.0
-    },
-    {
-      "source": "color_spaces_cam16",
-      "target": "color_spaces_cam16_ucs",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_spaces.md",
-      "source_location": "Cam16 section",
-      "weight": 1.0
-    },
-    {
-      "source": "color_spaces_cielab",
-      "target": "color_spaces_xyz",
-      "relation": "references",
-      "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "weight": 0.8
-    },
-    {
-      "source": "color_spaces_linear_rgb",
-      "target": "color_spaces_srgb",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_spaces.md",
-      "source_location": "Linear RGB section",
-      "weight": 1.0
-    },
-    {
-      "source": "color_spaces_hct_color_space",
-      "target": "dynamic_color_scheme_hct_color_space",
+      "source": "concept_contrast_ratio",
+      "target": "readme_contrast_component",
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "concepts/color_spaces.md",
-      "source_location": null,
-      "weight": 0.95
-    },
-    {
-      "source": "contrast_accessibility_contrast_ratio",
-      "target": "color_spaces_xyz",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": "Contrast ratio section",
-      "weight": 1.0
-    },
-    {
-      "source": "contrast_accessibility_gar",
-      "target": "contrast_accessibility_wcag",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
+      "confidence_score": 0.85,
       "source_file": "concepts/contrast_for_accessibility.md",
       "source_location": null,
-      "weight": 1.0
+      "weight": 0.85
     },
     {
-      "source": "contrast_accessibility_default_contrast",
-      "target": "contrast_accessibility_gar",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "contrast_accessibility_medium_contrast",
-      "target": "contrast_accessibility_gar",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "contrast_accessibility_high_contrast",
-      "target": "contrast_accessibility_gar",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/contrast_for_accessibility.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "color_extraction_quantize",
-      "target": "color_extraction_scoring",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_extraction.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "color_extraction_wallpaper_color",
-      "target": "color_extraction_quantize",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_extraction.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "color_extraction_content_color",
-      "target": "color_extraction_quantize",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_extraction.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "color_extraction_scoring",
-      "target": "dynamic_color_scheme_source_color",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_extraction.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "color_terms_dynamic_color",
-      "target": "dart_changelog_dynamicscheme",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "color_terms_material_color_roles",
-      "target": "dynamic_color_scheme_color_roles",
+      "source": "devguide_contrast_class",
+      "target": "readme_contrast_component",
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "weight": 0.95
-    },
-    {
-      "source": "color_terms_scheme_variant",
-      "target": "dart_changelog_dynamicscheme",
-      "relation": "references",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "weight": 0.85
-    },
-    {
-      "source": "color_terms_key_color",
-      "target": "dynamic_color_scheme_source_color",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "color_terms_tone",
-      "target": "color_terms_contrast",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "color_terms_hue",
-      "target": "dynamic_color_scheme_hct_color_space",
-      "relation": "references",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "weight": 0.85
-    },
-    {
-      "source": "color_terms_chroma",
-      "target": "dynamic_color_scheme_hct_color_space",
-      "relation": "references",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "weight": 0.85
-    },
-    {
-      "source": "color_terms_tone",
-      "target": "dynamic_color_scheme_hct_color_space",
-      "relation": "references",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "concepts/color_terms.md",
-      "source_location": null,
-      "weight": 0.85
-    },
-    {
-      "source": "creating_color_scheme_dynamicscheme_api",
-      "target": "dynamic_color_scheme_dynamic_scheme",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "creating_color_scheme_dynamicscheme_api",
-      "target": "creating_color_scheme_schemetonalspot",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "creating_color_scheme_dynamicscheme_api",
-      "target": "creating_color_scheme_schemecontent",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "creating_color_scheme_scheme_deprecated",
-      "target": "creating_color_scheme_schemetonalspot",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": "Migration table",
-      "weight": 1.0
-    },
-    {
-      "source": "creating_color_scheme_scheme_deprecated",
-      "target": "creating_color_scheme_schemecontent",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": "Migration table",
-      "weight": 1.0
-    },
-    {
-      "source": "creating_color_scheme_dynamicscheme_api",
-      "target": "dart_changelog_dynamiccolor",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "creating_color_scheme_dynamicscheme_api",
-      "target": "dart_changelog_materialdynamiccolors",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "refining_contrast_contrast_library",
-      "target": "contrast_accessibility_contrast_ratio",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
+      "confidence_score": 0.9,
       "source_file": "dev_guide/refining_contrast.md",
       "source_location": null,
-      "weight": 1.0
+      "weight": 0.9
     },
     {
-      "source": "refining_contrast_ratio_of_tones",
-      "target": "refining_contrast_contrast_library",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/refining_contrast.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "refining_contrast_darker_lighter",
-      "target": "refining_contrast_contrast_library",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/refining_contrast.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "refining_contrast_contrast_library",
-      "target": "contrast_accessibility_gar",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/refining_contrast.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "extracting_colors_quantizer_celebi",
-      "target": "color_extraction_quantize",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/extracting_colors.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "extracting_colors_score_score",
-      "target": "color_extraction_scoring",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/extracting_colors.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "extracting_colors_quantizer_celebi",
-      "target": "extracting_colors_score_score",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/extracting_colors.md",
-      "source_location": "Step 3",
-      "weight": 1.0
-    },
-    {
-      "source": "swift_hct_guide_hct_class",
-      "target": "dynamic_color_scheme_hct_color_space",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "swift/Guides/Hct.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "swift_hct_guide_hct_class",
-      "target": "swift_hct_guide_viewing_conditions",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "swift/Guides/Hct.md",
-      "source_location": "In Viewing Conditions section",
-      "weight": 1.0
-    },
-    {
-      "source": "swift_hct_guide_cam16_swift",
-      "target": "color_spaces_cam16",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "swift/Guides/Hct.md",
-      "source_location": "Cam16 section",
-      "weight": 1.0
-    },
-    {
-      "source": "swift_hct_guide_cam16_swift",
-      "target": "swift_hct_guide_viewing_conditions",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "swift/Guides/Hct.md",
-      "source_location": "Cam16 section",
-      "weight": 1.0
-    },
-    {
-      "source": "swift_hct_guide_viewing_conditions",
-      "target": "color_spaces_viewing_conditions",
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "swift/Guides/Hct.md",
-      "source_location": null,
-      "weight": 0.95
-    },
-    {
-      "source": "swift_hct_guide_hct_class",
-      "target": "dart_changelog_hct",
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "swift/Guides/Hct.md",
-      "source_location": null,
-      "weight": 0.85
-    },
-    {
-      "source": "swift_hct_guide_hct_class",
-      "target": "typescript_readme_hct_class",
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "source_file": "swift/Guides/Hct.md",
-      "source_location": null,
-      "weight": 0.85
-    },
-    {
-      "source": "color_extraction_quantize",
+      "source": "concept_quantization",
       "target": "readme_quantize_component",
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
@@ -1626,7 +1698,7 @@
       "weight": 0.9
     },
     {
-      "source": "color_extraction_scoring",
+      "source": "concept_scoring",
       "target": "readme_score_component",
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
@@ -1636,109 +1708,73 @@
       "weight": 0.9
     },
     {
-      "source": "dynamic_color_scheme_quantization",
-      "target": "color_extraction_quantize",
+      "source": "dart_dynamic_scheme_class",
+      "target": "concept_dynamic_scheme_interface",
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
       "confidence_score": 0.9,
-      "source_file": "concepts/dynamic_color_scheme.md",
+      "source_file": "dart/CHANGELOG.md",
       "source_location": null,
       "weight": 0.9
     },
     {
-      "source": "scheme_generation_contrast_tone_adjustments",
-      "target": "contrast_accessibility_contrast_ratio",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
+      "source": "dart_tonal_palette_class",
+      "target": "concept_tonal_palette",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "dart_material_dynamic_colors_class",
+      "target": "concept_color_roles",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "dart/CHANGELOG.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "concept_scheme_generation",
+      "target": "readme_scheme_component",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
       "source_file": "concepts/scheme_generation.md",
-      "source_location": "Step 5",
-      "weight": 1.0
-    },
-    {
-      "source": "dart_changelog_dynamicscheme",
-      "target": "dynamic_color_scheme_dynamic_scheme",
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "dart/CHANGELOG.md",
       "source_location": null,
-      "weight": 0.95
-    },
-    {
-      "source": "dart_changelog_tonalpalette",
-      "target": "dynamic_color_scheme_tonal_palette",
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.95,
-      "source_file": "dart/CHANGELOG.md",
-      "source_location": null,
-      "weight": 0.95
-    },
-    {
-      "source": "creating_color_scheme_dynamicscheme_api",
-      "target": "dart_changelog_tonalpalette",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "dev_guide/creating_color_scheme.md",
-      "source_location": "Method 2 code examples",
-      "weight": 1.0
-    },
-    {
-      "source": "refining_contrast_contrast_library",
-      "target": "readme_contrast_component",
-      "relation": "semantically_similar_to",
-      "confidence": "INFERRED",
-      "confidence_score": 0.9,
-      "source_file": "dev_guide/refining_contrast.md",
-      "source_location": null,
-      "weight": 0.9
+      "weight": 0.85
     }
   ],
   "hyperedges": [
     {
-      "id": "color_extraction_to_dynamic_scheme_pipeline",
-      "label": "Image Color Extraction to Dynamic Scheme Generation Pipeline",
-      "nodes": [
-        "color_extraction_quantize",
-        "color_extraction_scoring",
-        "dynamic_color_scheme_source_color",
-        "dynamic_color_scheme_tonal_palette",
-        "dynamic_color_scheme_dynamic_scheme"
-      ],
+      "id": "hct_cam16_cielab_compose_hct_space",
+      "label": "CAM16 + CIELAB L* compose HCT Color Space",
+      "nodes": ["concept_cam16_color_model", "concept_cielab_color_space", "concept_hct_color_space"],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "concepts/color_spaces.md"
+    },
+    {
+      "id": "quantize_score_source_pipeline",
+      "label": "Quantize + Score + Source Color: Image-to-Theme Extraction Pipeline",
+      "nodes": ["concept_quantization", "concept_scoring", "concept_source_color"],
       "relation": "participate_in",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "concepts/color_extraction.md"
     },
     {
-      "id": "hct_color_system_foundation",
-      "label": "HCT Color System Foundation",
-      "nodes": [
-        "color_spaces_cam16_jch",
-        "color_spaces_cielab",
-        "color_spaces_hct_color_space",
-        "dynamic_color_scheme_hct_color_space"
-      ],
-      "relation": "form",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "concepts/color_spaces.md"
-    },
-    {
-      "id": "dynamic_scheme_accessibility_compliance",
-      "label": "Dynamic Scheme Accessibility Compliance",
-      "nodes": [
-        "dynamic_color_scheme_dynamic_scheme",
-        "scheme_generation_contrast_tone_adjustments",
-        "contrast_accessibility_gar",
-        "contrast_accessibility_wcag"
-      ],
+      "id": "source_key_tonal_scheme_generation",
+      "label": "Source Color + Key Colors + Tonal Palettes: Dynamic Scheme Foundation",
+      "nodes": ["concept_source_color", "concept_key_color", "concept_tonal_palette"],
       "relation": "participate_in",
       "confidence": "EXTRACTED",
-      "confidence_score": 0.95,
-      "source_file": "concepts/contrast_for_accessibility.md"
+      "confidence_score": 1.0,
+      "source_file": "concepts/dynamic_color_scheme.md"
     }
   ],
   "input_tokens": 0,
