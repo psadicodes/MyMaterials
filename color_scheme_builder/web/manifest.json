@@ -1,12 +1,13 @@
 {
-    "name": "color_scheme_builder",
-    "short_name": "color_scheme_builder",
-    "start_url": ".",
+    "name": "M3 Color Scheme Builder",
+    "short_name": "M3 Builder",
+    "start_url": "/m3-express-builder/",
+    "scope": "/m3-express-builder/",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#1C1B1F",
+    "theme_color": "#6750A4",
+    "description": "Generate, preview, and export Material 3 color schemes and Jetpack Compose themes.",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
